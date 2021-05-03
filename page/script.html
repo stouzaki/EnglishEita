@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!-- How to access -->
+<!-- http://127.0.0.1:5500/004_english/doc/script.html?c1=script-01&c2=1-01 -->
+
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Titleは動的に変更</title>
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+    <link
+      rel="apple-touch-icon"
+      href="../apple-touch-icon.png"
+      sizes="144x144"
+    />
+    <link rel="stylesheet" href="../../css/reset.css" />
+    <link rel="stylesheet" href="../css/common.css" />
+    <link rel="stylesheet" href="../css/script.css" />
+    <script defer src="../lib/jquery-3.6.0.min.js"></script>
+    <script defer src="./script.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <ul>
+        <li>
+          <h5 id="title_no" class="title_no"></h5>
+          <h3 id="title" class="title"></h3>
+        </li>
+        <li class="switch">
+          <input type="checkbox" id="btnJa" checked />
+          <label for="btnJa">和文</label>
+          <input type="checkbox" id="btnEn" checked />
+          <label for="btnEn">英文</label>
+        </li>
+      </ul>
+    </header>
+    <main id="main"></main>
+    <footer>
+      <ul class="table">
+        <li>
+          <div class="radio">
+            <input
+              type="radio"
+              name="playBackSpeed"
+              id="playBackSpeed_8"
+              value="0.8"
+            />
+            <label for="playBackSpeed_8">×0.8</label>
+            <input
+              type="radio"
+              name="playBackSpeed"
+              id="playBackSpeed_10"
+              value="1.0"
+              checked
+            />
+            <label for="playBackSpeed_10">×1.0</label>
+            <input
+              type="radio"
+              name="playBackSpeed"
+              id="playBackSpeed_12"
+              value="1.2"
+            />
+            <label for="playBackSpeed_12">×1.2</label>
+            <input
+              type="radio"
+              name="playBackSpeed"
+              id="playBackSpeed_15"
+              value="1.5"
+            />
+            <label for="playBackSpeed_15">×1.5</label>
+            <input
+              type="radio"
+              name="playBackSpeed"
+              id="playBackSpeed_20"
+              value="2.0"
+            />
+            <label for="playBackSpeed_20">×2.0</label>
+          </div>
+        </li>
+        <li>
+          <input type="checkbox" id="btnPlayPause" class="chk-btn" />
+          <label for="btnPlayPause"></label>
+        </li>
+        <!-- <li><button id="btnPlayPause" class="normal">再生 / 停止</button></li> -->
+        <li><button id="btnEnd" class="default">戻る</button></li>
+      </ul>
+    </footer>
+    <template id="scriptTemplate">
+      <article class="script">
+        <p class="ja"></p>
+        <p class="en"></p>
+        <audio src=""></audio>
+      </article>
+    </template>
+  </body>
+</html>

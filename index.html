@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- start iOS用PWA設定 -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="#FFD51B" />
+    <meta name="apple-mobile-web-app-title" content="英語のえいた" />
+    <!-- end iOS用PWA設定 -->
+    <!-- start Android用PWA設定-->
+    <link rel="manifest" href="manifest.json" />
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("sw.js").then((reg) => {
+          console.log("Service worker registered.", reg);
+        });
+      }
+    </script>
+    <!-- end Android用PWA設定-->
+    <title>英語のえいた</title>
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" sizes="144x144" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="./apple-touch-icon.png"
+      sizes="144x144"
+    />
+    <link rel="stylesheet" href="../css/reset.css" />
+    <link rel="stylesheet" href="./css/common.css" />
+    <link rel="stylesheet" href="./css/index.css" />
+    <script defer src="./lib/jquery-3.6.0.min.js"></script>
+    <script defer src="./index.js"></script>
+  </head>
+
+  <body>
+    <!-- とりあえず -->
+    <header>
+      <img src="./img/logo.png" alt="" />
+    </header>
+    <main>
+      <h3>何でも英語で言ってみる！シンプル英語フレーズ2000</h3>
+      <section class="category">
+        <details class="sub">
+          <summary>定番の表現</summary>
+          <ol>
+            <li><a>初対面の挨拶</a></li>
+            <li><a>その他の挨拶</a></li>
+            <li><a>別れ</a></li>
+            <li><a>お礼</a></li>
+            <li><a>おわび</a></li>
+            <li><a>あいづち</a></li>
+            <li><a>肯定</a></li>
+            <li><a>否定</a></li>
+            <li><a>頼む</a></li>
+            <li><a>祝う</a></li>
+            <li><a>ほめる</a></li>
+            <li><a>励ます</a></li>
+          </ol>
+        </details>
+        <details class="sub">
+          <summary>自己紹介</summary>
+          <ol>
+            <li><a>名前</a></li>
+            <li><a>出身地</a></li>
+          </ol>
+        </details>
+        <details class="sub">
+          <summary>一日の流れ～朝</summary>
+          <ol>
+            <li><a>起床</a></li>
+          </ol>
+        </details>
+      </section>
+    </main>
+  </body>
+</html>
