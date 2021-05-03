@@ -69,11 +69,11 @@ ol {
 .category {
   display: flex;
   flex-wrap: wrap;
+  align-items: flex-start;
 }
 
 .sub {
-  min-width: calc(100% / 3 - 1rem);
-  //   background: burlywood;
+  min-width: calc(100% / 3 - 1.4rem);
   padding: 0.2rem;
   margin-right: 0.8rem;
   border: 1px solid #ccc;
