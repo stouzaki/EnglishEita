@@ -1,0 +1,56 @@
+{
+  "title_no": "script-01 1-08",
+  "title": "否定",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "いいえ。",
+      "en": "No."
+    },
+    {
+      "id": "02",
+      "ja": "それは無理ですよ。",
+      "en": "It's not agood idea."
+    },
+    {
+      "id": "03",
+      "ja": "その考えには反対です。",
+      "en": "I don't agree with that idea."
+    },
+    {
+      "id": "04",
+      "ja": "やめておいたほうがいいよ。",
+      "en": "You shouldn't do that."
+    },
+    {
+      "id": "05",
+      "ja": "私にはできそうにありません。",
+      "en": "I'm afraid I can't do it."
+    },
+    {
+      "id": "06",
+      "ja": "ちょっと意見が違います。",
+      "en": "I have a different idea."
+    },
+    {
+      "id": "07",
+      "ja": "間違っていませんか？",
+      "en": "I think you are wrong."
+    },
+    {
+      "id": "08",
+      "ja": "嫌です。",
+      "en": "I don't like it."
+    },
+    {
+      "id": "09",
+      "ja": "結構です。",
+      "en": "No, thank you."
+    },
+    {
+      "id": "10",
+      "ja": "それはちょっと...",
+      "en": "I don't know about that..."
+    }
+  ]
+}

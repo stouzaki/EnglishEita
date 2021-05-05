@@ -1,0 +1,76 @@
+{
+  "title_no": "script-01 2-04",
+  "title": "年齢",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "何歳ですか？",
+      "en": "How old are you?"
+    },
+    {
+      "id": "02",
+      "ja": "何歳に見えますか？",
+      "en": "How old do I look?"
+    },
+    {
+      "id": "03",
+      "ja": "私は28歳です。",
+      "en": "I'm 28"
+    },
+    {
+      "id": "04",
+      "ja": "あと１か月で32歳になります。",
+      "en": "I'll be 32 in a month."
+    },
+    {
+      "id": "05",
+      "ja": "何年生まれですか？",
+      "en": "What year were you born?"
+    },
+    {
+      "id": "06",
+      "ja": "1981年生まれです。",
+      "en": "I was born in 1981."
+    },
+    {
+      "id": "07",
+      "ja": "まだ未成年です。",
+      "en": "I'm under 20."
+    },
+    {
+      "id": "08",
+      "ja": "私の3歳上ですね。",
+      "en": "You are three years older than me."
+    },
+    {
+      "id": "09",
+      "ja": "同い年ですね。",
+      "en": "We are the same age."
+    },
+    {
+      "id": "10",
+      "ja": "年齢より若く見えますね。",
+      "en": "You look young for your age."
+    },
+    {
+      "id": "11",
+      "ja": "自分の歳は忘れてしまいましたよ...",
+      "en": "I forgot how old I am..."
+    },
+    {
+      "id": "12",
+      "ja": "女性に年齢を尋ねるのは失礼です。",
+      "en": "You shouldn't ask a lady her age."
+    },
+    {
+      "id": "13",
+      "ja": "「酉年」生まれです。",
+      "en": "According to the Chinese sodiac, I'm a 'Bird'"
+    },
+    {
+      "id": "14",
+      "ja": "星座は「獅子座」です。",
+      "en": "My horoscope sign is 'Leo'."
+    }
+  ]
+}

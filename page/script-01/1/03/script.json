@@ -1,0 +1,56 @@
+{
+  "title_no": "script-01 1-03",
+  "title": "別れ",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "バイバイ。",
+      "en": "Bye."
+    },
+    {
+      "id": "02",
+      "ja": "さようなら。",
+      "en": "Good-bye."
+    },
+    {
+      "id": "03",
+      "ja": "じゃあね。",
+      "en": "See you."
+    },
+    {
+      "id": "04",
+      "ja": "元気でね！",
+      "en": "Take care!"
+    },
+    {
+      "id": "05",
+      "ja": "次に会えるのを楽しみにしています。",
+      "en": "Looking forward to seeing you again."
+    },
+    {
+      "id": "06",
+      "ja": "今度いつ会える？",
+      "en": "When can I see you again?"
+    },
+    {
+      "id": "07",
+      "ja": "お電話待ってますね。",
+      "en": "Call me."
+    },
+    {
+      "id": "08",
+      "ja": "メールくださいね。",
+      "en": "Text me."
+    },
+    {
+      "id": "09",
+      "ja": "連絡するね。",
+      "en": "I'll be in touch."
+    },
+    {
+      "id": "10",
+      "ja": "家族の方によろしくお伝えください。",
+      "en": "Say hello to your family."
+    }
+  ]
+}

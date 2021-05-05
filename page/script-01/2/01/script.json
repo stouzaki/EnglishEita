@@ -1,0 +1,61 @@
+{
+  "title_no": "script-01 2-01",
+  "title": "名前",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "名前を教えてください。",
+      "en": "What's your name?"
+    },
+    {
+      "id": "02",
+      "ja": "私の名前は桃子です。",
+      "en": "My name is Momoko."
+    },
+    {
+      "id": "03",
+      "ja": "名前のつづりを教えてください。",
+      "en": "How do you spell your name?"
+    },
+    {
+      "id": "04",
+      "ja": "名前の由来は何ですか？",
+      "en": "Where does your name come from?"
+    },
+    {
+      "id": "05",
+      "ja": "その名前に特別な意味はありますか？",
+      "en": "Does your name have any special meaning?"
+    },
+    {
+      "id": "06",
+      "ja": "由美の「美」には「美しい」という意味があります。",
+      "en": "I'm Yumi. The kanji 'mi' means beauty."
+    },
+    {
+      "id": "07",
+      "ja": "何と呼べば良いですか？",
+      "en": "What should I call you?"
+    },
+    {
+      "id": "08",
+      "ja": "私のあだ名はピーチです。ピーチと呼んでください。",
+      "en": "My nickname is Peach. Please call me that."
+    },
+    {
+      "id": "09",
+      "ja": "面白い名前ですね。",
+      "en": "That's an interesting name."
+    },
+    {
+      "id": "10",
+      "ja": "かわいい名前だね。",
+      "en": "What a lovely name."
+    },
+    {
+      "id": "11",
+      "ja": "かっこいい名前！",
+      "en": "Your name is cool !"
+    }
+  ]
+}

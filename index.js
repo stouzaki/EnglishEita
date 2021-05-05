@@ -21,7 +21,9 @@ function onDOMContentLoaded() {
             );
             $(e3).attr(
               "href",
-              `${page}?c1=script-${getId(i1 + 1)}&c2=${i2 + 1}-${getId(i3 + 1)}`
+              `${page}?c1=script-${getId(i1 + 1)}&c2=${i2 + 1}&c3=${getId(
+                i3 + 1
+              )}`
             );
           });
       });
@@ -29,19 +31,21 @@ function onDOMContentLoaded() {
 
   // 遷移元のリンクに目印をつける
   const $link = getFromLink();
-  $link.addClass("from");
-  // 目印のリンクのDetailsをOpenする
-  const $details = $link.parent().parent().parent();
-  $details.attr("open", "");
-  // 目印のリンクの位置までスクロールを移動する
-  const offsetTop = $link.offset().top - 300;
-  $("html, body").animate({ scrollTop: offsetTop }, 100);
+  if ($link !== undefined) {
+    $link.addClass("from");
+    // 目印のリンクのDetailsをOpenする
+    const $details = $link.parent().parent().parent();
+    $details.attr("open", "");
+    // 目印のリンクの位置までスクロールを移動する
+    const offsetTop = $link.offset().top - 300;
+    $("html, body").animate({ scrollTop: offsetTop }, 100);
+  }
 }
 
 /** 遷移元のリンク取得 */
 function getFromLink() {
   const params = getQueryParameter();
-  return $(`#${params[0]}_${params[1]}`);
+  return $(`#${params[0]}_${params[1]}-${params[2]}`);
 }
 
 /** ID取得（数値２桁埋め） */

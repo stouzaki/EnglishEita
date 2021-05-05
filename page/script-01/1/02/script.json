@@ -1,0 +1,76 @@
+{
+  "title_no": "script-01 1-02",
+  "title": "その他のあいさつ",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "どうも！",
+      "en": "Hi !"
+    },
+    {
+      "id": "02",
+      "ja": "お元気ですか？",
+      "en": "How are you?"
+    },
+    {
+      "id": "03",
+      "ja": "元気です。",
+      "en": "Good."
+    },
+    {
+      "id": "04",
+      "ja": "お久しぶりです。",
+      "en": "Long time, no see."
+    },
+    {
+      "id": "05",
+      "ja": "お変わりありませんか？",
+      "en": "How's everything with you?"
+    },
+    {
+      "id": "06",
+      "ja": "まあまあですね。",
+      "en": "I'm doing well."
+    },
+    {
+      "id": "07",
+      "ja": "最近どうですか？",
+      "en": "How are you doing?"
+    },
+    {
+      "id": "08",
+      "ja": "やっと会えたね！",
+      "en": "So, we finally meet!"
+    },
+    {
+      "id": "09",
+      "ja": "最後に会ったのいつでした？",
+      "en": "When did we meet last time?"
+    },
+    {
+      "id": "10",
+      "ja": "4,5 年前だったと思います。",
+      "en": "Four or five years ago, I guess."
+    },
+    {
+      "id": "11",
+      "ja": "ご家族はお元気ですか？",
+      "en": "How's your family?"
+    },
+    {
+      "id": "12",
+      "ja": "ウイリアムズ先生じゃありませんか？",
+      "en": "Excuse me, but are you Mr. Willams?"
+    },
+    {
+      "id": "13",
+      "ja": "私のこと覚えてますか？ 桃子です。",
+      "en": "Do you remeber me? I'm Momoko."
+    },
+    {
+      "id": "14",
+      "ja": "いいお天気ですね！",
+      "en": "What a beautiful day!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title_no": "script-01 2-06",
+  "title": "趣味",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "あなたの国では何が流行っていますか？",
+      "en": "What is trendy in your country now?"
+    },
+    {
+      "id": "02",
+      "ja": "月並みですが、読書が趣味です。",
+      "en": "Nothing special, but I like to read books."
+    },
+    {
+      "id": "03",
+      "ja": "週一でジョギングをしています。",
+      "en": "I jog once a week."
+    },
+    {
+      "id": "04",
+      "ja": "オンラインゲームにはまっています。",
+      "en": "I'm addicted to video games."
+    },
+    {
+      "id": "05",
+      "ja": "多趣味ですね！",
+      "en": "You're versatile !"
+    },
+    {
+      "id": "06",
+      "ja": "趣味がないのが悩みです。",
+      "en": "Unfortunately, I do nothing in particular in my free time."
+    }
+  ]
+}

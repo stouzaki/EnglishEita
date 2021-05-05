@@ -1,0 +1,56 @@
+{
+  "title_no": "script-01 2-02",
+  "title": "出身地",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "ご出身はどちらですか？",
+      "en": "What country are you from?"
+    },
+    {
+      "id": "02",
+      "ja": "日本です。",
+      "en": "I'm from Japan."
+    },
+    {
+      "id": "03",
+      "ja": "日本のどこですか？",
+      "en": "Where in Japan are you from?"
+    },
+    {
+      "id": "04",
+      "ja": "神奈川県の横浜です。",
+      "en": "I'm from Yokohama in Kanagawa Prefecture."
+    },
+    {
+      "id": "05",
+      "ja": "中華街が有名なんです。",
+      "en": "It's famous for its Chinatown."
+    },
+    {
+      "id": "06",
+      "ja": "私は江戸っ子です。",
+      "en": "I'm an 'Edo-kko.' It means I was born and grew up in Tokyo."
+    },
+    {
+      "id": "07",
+      "ja": "韓国人ではありません。日本人です。",
+      "en": "I'm not Korean. I'm Japanese."
+    },
+    {
+      "id": "08",
+      "ja": "僕はデンマーク人とのハーフなんですよ。",
+      "en": "I'm half Japanese and half Danish."
+    },
+    {
+      "id": "09",
+      "ja": "生まれ故郷はアメリカのどちらですか？",
+      "en": "Where in America were you born?"
+    },
+    {
+      "id": "10",
+      "ja": "ロサンゼルスのサンタモニカです。",
+      "en": "I was born in Santa Monica, LA."
+    }
+  ]
+}

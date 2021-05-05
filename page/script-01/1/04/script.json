@@ -1,0 +1,41 @@
+{
+  "title_no": "script-01 1-04",
+  "title": "お礼",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "ありがとうございます。",
+      "en": "Thank you so much."
+    },
+    {
+      "id": "02",
+      "ja": "ありがとう！",
+      "en": "Thanks !"
+    },
+    {
+      "id": "03",
+      "ja": "いろいろとありがとうございます。",
+      "en": "Thank you for everything."
+    },
+    {
+      "id": "04",
+      "ja": "ご親切に対し、心より感謝しています。",
+      "en": "I don't know what to say for your kindness."
+    },
+    {
+      "id": "05",
+      "ja": "今度、何かお礼させてください。",
+      "en": "I owe you one."
+    },
+    {
+      "id": "06",
+      "ja": "由美さんのおかげです。",
+      "en": "Yumi helped me out a lot."
+    },
+    {
+      "id": "07",
+      "ja": "日本にお越しの際はご連絡くださいね。",
+      "en": "Let me know when you come to Japan."
+    }
+  ]
+}

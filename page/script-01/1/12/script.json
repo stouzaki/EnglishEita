@@ -1,0 +1,56 @@
+{
+  "title_no": "script-01 1-12",
+  "title": "励ます",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "がんばって。",
+      "en": "Good luck."
+    },
+    {
+      "id": "02",
+      "ja": "元気出してください。",
+      "en": "Cheer up."
+    },
+    {
+      "id": "03",
+      "ja": "大丈夫。",
+      "en": "Everything will be alright."
+    },
+    {
+      "id": "04",
+      "ja": "君のせいじゃない。",
+      "en": "It's not your fault."
+    },
+    {
+      "id": "05",
+      "ja": "なんとかなるさ。",
+      "en": "It'll be OK."
+    },
+    {
+      "id": "06",
+      "ja": "いつでも相談にのるよ。",
+      "en": "I will alway listen to you."
+    },
+    {
+      "id": "07",
+      "ja": "無理しないで。",
+      "en": "Don't push yourself to you."
+    },
+    {
+      "id": "08",
+      "ja": "あなたが決めたことだから正しいはず。",
+      "en": "You did the right thing."
+    },
+    {
+      "id": "09",
+      "ja": "いつもそばにいるからね。",
+      "en": "I'll always be with you."
+    },
+    {
+      "id": "10",
+      "ja": "明日は明日の風が吹く、だよ。",
+      "en": "Just sleep on it."
+    }
+  ]
+}

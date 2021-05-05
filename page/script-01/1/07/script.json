@@ -1,0 +1,76 @@
+{
+  "title_no": "script-01 1-07",
+  "title": "肯定",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "はい。",
+      "en": "Yes."
+    },
+    {
+      "id": "02",
+      "ja": "うん。",
+      "en": "Yeah."
+    },
+    {
+      "id": "03",
+      "ja": "オーケーです。",
+      "en": "It's OK with me."
+    },
+    {
+      "id": "04",
+      "ja": "了解です。",
+      "en": "All right."
+    },
+    {
+      "id": "05",
+      "ja": "もちろん",
+      "en": "Sure."
+    },
+    {
+      "id": "06",
+      "ja": "そう思います。",
+      "en": "I think so."
+    },
+    {
+      "id": "07",
+      "ja": "そうですね。",
+      "en": "I agree."
+    },
+    {
+      "id": "08",
+      "ja": "きっとそうですね。",
+      "en": "Probably so."
+    },
+    {
+      "id": "09",
+      "ja": "その通りです。",
+      "en": "You are right."
+    },
+    {
+      "id": "10",
+      "ja": "わかるわかる。",
+      "en": "Yeah, I know."
+    },
+    {
+      "id": "11",
+      "ja": "いいかもしれませんね。",
+      "en": "I might agree to that."
+    },
+    {
+      "id": "12",
+      "ja": "では、よろしくお願いします。",
+      "en": "Thanks for doing that."
+    },
+    {
+      "id": "13",
+      "ja": "いいですね。",
+      "en": "That'a good idea."
+    },
+    {
+      "id": "14",
+      "ja": "問題ありませんよ。",
+      "en": "No problem."
+    }
+  ]
+}

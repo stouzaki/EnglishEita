@@ -1,0 +1,46 @@
+{
+  "title_no": "script-01 1-09",
+  "title": "頼む",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "コーヒーをお願いします。",
+      "en": "Would you get me a coffee?"
+    },
+    {
+      "id": "02",
+      "ja": "よかったらお願いできますか？",
+      "en": "Would you do it for me?"
+    },
+    {
+      "id": "03",
+      "ja": "聞いていただきたいことがあります。",
+      "en": "I need to tell you something."
+    },
+    {
+      "id": "04",
+      "ja": "お願いしたいことがあるのですが。",
+      "en": "Would you do something for me?"
+    },
+    {
+      "id": "05",
+      "ja": "お忙しいと思いますが、そこをなんとか...",
+      "en": "I know you are busy, but..."
+    },
+    {
+      "id": "06",
+      "ja": "やっていただけると嬉しいのですが。",
+      "en": "I hope you can do it."
+    },
+    {
+      "id": "07",
+      "ja": "ぜひ、この仕事をお願いしたいのですが。",
+      "en": "I'd be very happy if you would accept this job."
+    },
+    {
+      "id": "08",
+      "ja": "私の代わりにできませんか？",
+      "en": "Would you do it in my place?"
+    }
+  ]
+}

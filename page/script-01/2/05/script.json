@@ -1,0 +1,46 @@
+{
+  "title_no": "script-01 2-05",
+  "title": "家族構成",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "何人家族ですか？",
+      "en": "How big is your family?"
+    },
+    {
+      "id": "02",
+      "ja": "4人家族です。",
+      "en": "I live with my husband and two children."
+    },
+    {
+      "id": "03",
+      "ja": "弟と妹がいます。",
+      "en": "I have a younger brother and a younger sister."
+    },
+    {
+      "id": "04",
+      "ja": "一人っ子です。",
+      "en": "I'm an only child."
+    },
+    {
+      "id": "05",
+      "ja": "お兄ちゃんがいてうらやましい。",
+      "en": "I wish I had a brother."
+    },
+    {
+      "id": "06",
+      "ja": "おばあさんといっしょに住んでます。",
+      "en": "I live with my grandmother."
+    },
+    {
+      "id": "07",
+      "ja": "母子家庭で育ちました。",
+      "en": "My mother raised me."
+    },
+    {
+      "id": "08",
+      "ja": "親は離婚しています。",
+      "en": "My parents are divorced."
+    }
+  ]
+}

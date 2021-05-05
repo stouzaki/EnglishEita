@@ -1,0 +1,66 @@
+{
+  "title_no": "script-01 1-05",
+  "title": "おわび",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "申しわけありませんでした。",
+      "en": "I apologize."
+    },
+    {
+      "id": "02",
+      "ja": "なんと言ったらよいのか...",
+      "en": "I don't know what to say..."
+    },
+    {
+      "id": "03",
+      "ja": "ごめんなさい。",
+      "en": "I'm sorry."
+    },
+    {
+      "id": "04",
+      "ja": "私が悪いんです。",
+      "en": "It's my fault."
+    },
+    {
+      "id": "05",
+      "ja": "悪気があったわけじゃありません。",
+      "en": "I didn't mean it."
+    },
+    {
+      "id": "06",
+      "ja": "わざとじゃないんです。",
+      "en": "I didn't do it on purpose."
+    },
+    {
+      "id": "07",
+      "ja": "許してください。",
+      "en": "Forgive me."
+    },
+    {
+      "id": "08",
+      "ja": "間違えた！",
+      "en": "Oops ! Sorry."
+    },
+    {
+      "id": "09",
+      "ja": "遅れてすみません。",
+      "en": "Sorry for being late."
+    },
+    {
+      "id": "10",
+      "ja": "誤って済む問題じゃないよ。",
+      "en": "It's not something you can just apologize for."
+    },
+    {
+      "id": "11",
+      "ja": "しょうがないなあ。",
+      "en": "Oh, well."
+    },
+    {
+      "id": "12",
+      "ja": "今回だけは許そう。",
+      "en": "Only this time. Not next time."
+    }
+  ]
+}

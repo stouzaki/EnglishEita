@@ -1,0 +1,46 @@
+{
+  "title_no": "script-01 1-11",
+  "title": "ほめる",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "さすが！",
+      "en": "Great job !"
+    },
+    {
+      "id": "02",
+      "ja": "すごいじゃないですか。",
+      "en": "That's great."
+    },
+    {
+      "id": "03",
+      "ja": "すてきですね。",
+      "en": "You look nice"
+    },
+    {
+      "id": "04",
+      "ja": "かっこいいですよ！",
+      "en": "You're so cool !"
+    },
+    {
+      "id": "05",
+      "ja": "あなたは私の憧れです。",
+      "en": "I admire you !"
+    },
+    {
+      "id": "06",
+      "ja": "君らしいよ。",
+      "en": "It's so like you."
+    },
+    {
+      "id": "07",
+      "ja": "尊敬します。",
+      "en": "I respect you."
+    },
+    {
+      "id": "08",
+      "ja": "惚れ惚れします。",
+      "en": "You're my hero."
+    }
+  ]
+}

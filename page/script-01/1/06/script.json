@@ -1,0 +1,76 @@
+{
+  "title_no": "script-01 1-06",
+  "title": "あいづち",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "うんうん。",
+      "en": "I see."
+    },
+    {
+      "id": "02",
+      "ja": "それで？",
+      "en": "And then?"
+    },
+    {
+      "id": "03",
+      "ja": "そうなんだ。",
+      "en": "I got it."
+    },
+    {
+      "id": "04",
+      "ja": "本当ですか？",
+      "en": "Really?"
+    },
+    {
+      "id": "05",
+      "ja": "へえ！",
+      "en": "Wow !"
+    },
+    {
+      "id": "06",
+      "ja": "ええっ！？",
+      "en": "What!?"
+    },
+    {
+      "id": "07",
+      "ja": "聞いて聞いて！",
+      "en": "Listen up !"
+    },
+    {
+      "id": "08",
+      "ja": "うっそ。",
+      "en": "You must be kidding."
+    },
+    {
+      "id": "09",
+      "ja": "マジで！？",
+      "en": "Are you serious!?"
+    },
+    {
+      "id": "10",
+      "ja": "信じられない！",
+      "en": "Oh my god !"
+    },
+    {
+      "id": "11",
+      "ja": "わかるよ、でも...",
+      "en": "I understand but..."
+    },
+    {
+      "id": "12",
+      "ja": "ところで...",
+      "en": "By the way..."
+    },
+    {
+      "id": "13",
+      "ja": "そうかなあ。",
+      "en": "I don't think so."
+    },
+    {
+      "id": "14",
+      "ja": "やっぱり！",
+      "en": "That's what I thought !"
+    }
+  ]
+}

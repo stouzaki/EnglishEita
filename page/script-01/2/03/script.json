@@ -1,0 +1,56 @@
+{
+  "title_no": "script-01 2-03",
+  "title": "居住地",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "どこに住んでるんですか？",
+      "en": "Where do you live?"
+    },
+    {
+      "id": "02",
+      "ja": "私は世田谷区に住んでいます。",
+      "en": "I live in Setagaya Ward."
+    },
+    {
+      "id": "03",
+      "ja": "マンションに住んでいます。",
+      "en": "I live in condo."
+    },
+    {
+      "id": "04",
+      "ja": "最寄駅から徒歩５分です。",
+      "en": "It's a five-minute walk from the nearest station."
+    },
+    {
+      "id": "05",
+      "ja": "中央線沿いが便利ですね。",
+      "en": "Anywhere along the Chuo Line is Convenient."
+    },
+    {
+      "id": "06",
+      "ja": "住まいはサンフランシスコのどの辺ですか？",
+      "en": "Where exactly in San Francisco do you live?"
+    },
+    {
+      "id": "07",
+      "ja": "彼女と同棲中です。",
+      "en": "I live with my girlfriend."
+    },
+    {
+      "id": "08",
+      "ja": "友達とルームシェアしてるんです。",
+      "en": "I'm sharing my apartment with a friend."
+    },
+    {
+      "id": "09",
+      "ja": "シェアハウスを運営しています。",
+      "en": "I run shared housing."
+    },
+    {
+      "id": "10",
+      "ja": "遊びに来てくださいね。",
+      "en": "Come visit us sometime."
+    }
+  ]
+}

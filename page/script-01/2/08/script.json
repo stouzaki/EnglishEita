@@ -1,0 +1,76 @@
+{
+  "title_no": "script-01 2-08",
+  "title": "政治・宗教観",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "どの政党を支持していますか？",
+      "en": "What plitical party do you support?"
+    },
+    {
+      "id": "02",
+      "ja": "あなたの国の政治状況は？",
+      "en": "What is the present plitical situation in your country?"
+    },
+    {
+      "id": "03",
+      "ja": "共和党を支持しています。",
+      "en": "I'm a Republican."
+    },
+    {
+      "id": "04",
+      "ja": "支持する政党はありません。",
+      "en": "I'm an independent."
+    },
+    {
+      "id": "05",
+      "ja": "今の政府に不満です。",
+      "en": "I'm not happy with the recent administration."
+    },
+    {
+      "id": "06",
+      "ja": "新しい税改革に賛成です。",
+      "en": "I'm for the new tax reform."
+    },
+    {
+      "id": "07",
+      "ja": "政治はよくわかりません。",
+      "en": "I don't know much about politics."
+    },
+    {
+      "id": "08",
+      "ja": "宗教は何を信じていますか？",
+      "en": "What religion do you belive in?"
+    },
+    {
+      "id": "09",
+      "ja": "あなたの信仰は？",
+      "en": "Do you believe in any religion?"
+    },
+    {
+      "id": "10",
+      "ja": "敬虔なキリスト教徒です。",
+      "en": "I'm a devout Christian."
+    },
+    {
+      "id": "11",
+      "ja": "協会には行きますか？",
+      "en": "Do you go to church?"
+    },
+    {
+      "id": "12",
+      "ja": "禁じられている食べものはありますか？",
+      "en": "Is there anything you are not allowed to eat?"
+    },
+    {
+      "id": "13",
+      "ja": "無宗教です。",
+      "en": "I'm not religious."
+    },
+    {
+      "id": "14",
+      "ja": "イスラム教に改宗しました。",
+      "en": "I converted to Islam."
+    }
+  ]
+}

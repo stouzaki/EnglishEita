@@ -1,0 +1,81 @@
+{
+  "title_no": "script-01 2-07",
+  "title": "職業",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "お仕事は何ですか？",
+      "en": "What do you do?"
+    },
+    {
+      "id": "02",
+      "ja": "なぜその仕事を始めたのですか？",
+      "en": "Why did you choose that job?"
+    },
+    {
+      "id": "03",
+      "ja": "食品メーカーに勤めています。",
+      "en": "I work for a food company."
+    },
+    {
+      "id": "04",
+      "ja": "営業をやっています。",
+      "en": "I'm in sales."
+    },
+    {
+      "id": "05",
+      "ja": "公務員です。",
+      "en": "I'm a civil servant."
+    },
+    {
+      "id": "06",
+      "ja": "IT関係ですね？",
+      "en": "You work for an IT company?"
+    },
+    {
+      "id": "07",
+      "ja": "会社を経営しています。",
+      "en": "I run a company."
+    },
+    {
+      "id": "08",
+      "ja": "フリーランスです。",
+      "en": "I'm freelancing."
+    },
+    {
+      "id": "09",
+      "ja": "最近、仕事を辞めたばかりです。",
+      "en": "I just quit my job."
+    },
+    {
+      "id": "10",
+      "ja": "育児休暇をとっています。",
+      "en": "I'm on maternity leave now."
+    },
+    {
+      "id": "11",
+      "ja": "失業中で、職を探しているところです。",
+      "en": "I'm unemployed and looking for a job."
+    },
+    {
+      "id": "12",
+      "ja": "ただ今、求職中です。",
+      "en": "I'm between jobs."
+    },
+    {
+      "id": "13",
+      "ja": "家事手伝いです。",
+      "en": "I stay home and help my family."
+    },
+    {
+      "id": "14",
+      "ja": "主婦です。",
+      "en": "I'm a homemaker."
+    },
+    {
+      "id": "15",
+      "ja": "大学３年生で経済を専攻しています。",
+      "en": "I'm a junior at university. My major is econmics."
+    }
+  ]
+}

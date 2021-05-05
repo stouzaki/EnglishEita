@@ -1,0 +1,46 @@
+{
+  "title_no": "script-01 1-10",
+  "title": "祝う",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "おめでとうございます。",
+      "en": "Congratulations."
+    },
+    {
+      "id": "02",
+      "ja": "あなたは私の自慢です。",
+      "en": "I'm so proud of you."
+    },
+    {
+      "id": "03",
+      "ja": "祝福させてください。",
+      "en": "Let me congratulate you."
+    },
+    {
+      "id": "04",
+      "ja": "苦労が報われましたね。",
+      "en": "You deserve this."
+    },
+    {
+      "id": "05",
+      "ja": "良いことがあるといいですね！",
+      "en": "Best of luck !"
+    },
+    {
+      "id": "06",
+      "ja": "良かったですね！",
+      "en": "Good for you !"
+    },
+    {
+      "id": "07",
+      "ja": "あなたならできると思っていたよ。",
+      "en": "I knew you could do it."
+    },
+    {
+      "id": "08",
+      "ja": "やったね！",
+      "en": "You did it !"
+    }
+  ]
+}
