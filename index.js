@@ -34,8 +34,10 @@ function onDOMContentLoaded() {
   if ($link !== undefined) {
     $link.addClass("from");
     // 目印のリンクのDetailsをOpenする
-    const $details = $link.parent().parent().parent();
-    $details.attr("open", "");
+    const $detailsSub = $link.parent().parent().parent();
+    $detailsSub.attr("open", "");
+    const $detailsBook = $link.parent().parent().parent().parent().parent();
+    $detailsBook.attr("open", "");
     // 目印のリンクの位置までスクロールを移動する
     const offsetTop = $link.offset().top - 300;
     $("html, body").animate({ scrollTop: offsetTop }, 100);

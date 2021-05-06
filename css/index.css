@@ -26,6 +26,8 @@ main {
 .category {
   counter-reset: cat-no 0;
   counter-reset: sub-no 0;
+  margin-bottom: 3rem;
+  padding: 0.2rem 0.5rem;
 }
 
 h3 {
@@ -39,7 +41,22 @@ h3::before {
   margin-right: 1rem;
 }
 
-summary {
+.book {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.book > summary {
+  cursor: pointer;
+  display: inline;
+  width: 100%;
+}
+
+.book > summary:hover {
+  background: #fafad1;
+}
+
+.sub summary {
   background: #d1fafa;
   border-radius: 0.2rem;
   padding: 0.2rem;
@@ -48,13 +65,13 @@ summary {
   height: 3rem;
 }
 
-summary::before {
+.sub summary::before {
   counter-increment: sub-no 1;
-  content: "Chapter " counter(sub-no);
+  content: "THEME " counter(sub-no);
   margin-right: 0.8rem;
 }
 
-summary::marker {
+.sub summary::marker {
   color: blue;
   font-size: 1.4rem;
 }
@@ -87,6 +104,7 @@ ol > li a:visited {
 
 .sub {
   min-width: calc(100% / 3 - 1.4rem);
+  max-width: calc(100% / 3 - 1.4rem);
   padding: 0.2rem;
   margin-right: 0.8rem;
   border: 1px solid #ccc;
