@@ -106,6 +106,8 @@ ol {
 @media screen and (max-width: 480px) {
   .sub {
     width: 100%;
+    min-width: 100%;
+    max-width: 100%;
     margin: 0 0 0.4rem 0;
   }
 
