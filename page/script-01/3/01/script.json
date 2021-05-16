@@ -1,0 +1,46 @@
+{
+  "title_no": "script-01 3-01",
+  "title": "起床",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "よく眠れましたか？",
+      "en": "Did you sleep well?"
+    },
+    {
+      "id": "02",
+      "ja": "あんまり眠れませんでした。",
+      "en": "I didn't sleep well last night."
+    },
+    {
+      "id": "03",
+      "ja": "よく寝た。",
+      "en": "I had a good sleep."
+    },
+    {
+      "id": "04",
+      "ja": "起きなさい！",
+      "en": "Get up!"
+    },
+    {
+      "id": "05",
+      "ja": "わー！寝坊した。",
+      "en": "Oh my god! I overslept."
+    },
+    {
+      "id": "06",
+      "ja": "目覚まし時計、かけ忘れたよ。",
+      "en": "I forgot to set the alarm."
+    },
+    {
+      "id": "07",
+      "ja": "眠いよお。",
+      "en": "I'm so sleepy."
+    },
+    {
+      "id": "08",
+      "ja": "今日は仕事へ行きたくないな。",
+      "en": "I don't feel like going to work today."
+    }
+  ]
+}

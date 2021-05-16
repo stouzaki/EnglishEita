@@ -1,0 +1,51 @@
+{
+  "title_no": "script-01 3-02",
+  "title": "身支度",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "歯を磨かなきゃ。",
+      "en": "I have to brush my teeth."
+    },
+    {
+      "id": "02",
+      "ja": "目やにがついてるよ。",
+      "en": "You have sleep in your eyes."
+    },
+    {
+      "id": "03",
+      "ja": "シャワーを浴びてくる。",
+      "en": "I'll take a shower now."
+    },
+    {
+      "id": "04",
+      "ja": "目が痛い。コンタクトが入らないよ。",
+      "en": "My eyes are sore. I can't put my contact lenses in."
+    },
+    {
+      "id": "05",
+      "ja": "今日は会議がある。どのネクタイにしようかな。",
+      "en": "Which tie shoud I wear for today's meeting."
+    },
+    {
+      "id": "06",
+      "ja": "シャツにアイロンかけ忘れた。",
+      "en": "I forgot to iron my shirt."
+    },
+    {
+      "id": "07",
+      "ja": "メガネはどこ行った？",
+      "en": "Where are my glasses?"
+    },
+    {
+      "id": "08",
+      "ja": "トイレ、早く出て！",
+      "en": "Hurry up! I need to use the bathroom!"
+    },
+    {
+      "id": "09",
+      "ja": "今日は朝ご飯いらないよ。",
+      "en": "I don't need breakfast today."
+    }
+  ]
+}

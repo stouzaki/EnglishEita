@@ -1,0 +1,106 @@
+{
+  "title_no": "script-01 4-03",
+  "title": "学校",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "出席を取ります。",
+      "en": "I'll take attendance."
+    },
+    {
+      "id": "02",
+      "ja": "裕太は風でお休みです。",
+      "en": "Yuta is absent because he has a cold."
+    },
+    {
+      "id": "03",
+      "ja": "この問題がわかる人は？",
+      "en": "Can anybody answer this question?"
+    },
+    {
+      "id": "04",
+      "ja": "田中先生、質問があります。",
+      "en": "I have a question, Ms. Tanaka."
+    },
+    {
+      "id": "05",
+      "ja": "明日から中間テストだ。",
+      "en": "We'll have mid-term exams from tommorow."
+    },
+    {
+      "id": "06",
+      "ja": "静かにしなさい。",
+      "en": "Please be quiet."
+    },
+    {
+      "id": "07",
+      "ja": "テストで100点とったよ。",
+      "en": "I got a 100 on the test."
+    },
+    {
+      "id": "08",
+      "ja": "ノートのコピーさせて！",
+      "en": "Can I copy your note?"
+    },
+    {
+      "id": "09",
+      "ja": "代返、お願い！",
+      "en": "Can you answer for me during roll call?"
+    },
+    {
+      "id": "10",
+      "ja": "もうすぐ体育祭だね！",
+      "en": "I can't wait for our Sports Festival !"
+    },
+    {
+      "id": "11",
+      "ja": "サッカー部の先輩、かっこいい！",
+      "en": "That varsity soccer player is cool !"
+    },
+    {
+      "id": "12",
+      "ja": "卒論のテーマは何ですか？",
+      "en": "What is the subject of your graduation thesis?"
+    },
+    {
+      "id": "13",
+      "ja": "",
+      "en": ""
+    },
+    {
+      "id": "14",
+      "ja": "",
+      "en": ""
+    },
+    {
+      "id": "15",
+      "ja": "",
+      "en": ""
+    },
+    {
+      "id": "16",
+      "ja": "",
+      "en": ""
+    },
+    {
+      "id": "17",
+      "ja": "",
+      "en": ""
+    },
+    {
+      "id": "18",
+      "ja": "",
+      "en": ""
+    },
+    {
+      "id": "19",
+      "ja": "",
+      "en": ""
+    },
+    {
+      "id": "20",
+      "ja": "",
+      "en": ""
+    }
+  ]
+}

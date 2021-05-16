@@ -1,0 +1,46 @@
+{
+  "title_no": "script-01 4-01",
+  "title": "家事",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "洗濯しなくちゃ！",
+      "en": "I've got a lot of laundry to do !"
+    },
+    {
+      "id": "02",
+      "ja": "日本では、天気の良い日に布団を干すんです。",
+      "en": "In Japan, people air out their futons when it's sunny."
+    },
+    {
+      "id": "03",
+      "ja": "今日は燃えるゴミの日です。",
+      "en": "Today is a burnable trash day."
+    },
+    {
+      "id": "04",
+      "ja": "部屋がほこりだらけだ。",
+      "en": "My room is so dusty."
+    },
+    {
+      "id": "05",
+      "ja": "ぞうきんがけするね。",
+      "en": "I'll wipe the floor with a wet cloth."
+    },
+    {
+      "id": "06",
+      "ja": "昼は残りもので済まそうよ。",
+      "en": "Let's finish up the leftovers from yesterday's dinner."
+    },
+    {
+      "id": "07",
+      "ja": "仕事と家事の両立は大変です。",
+      "en": "It's very hard to balance work and housekeeping."
+    },
+    {
+      "id": "08",
+      "ja": "今日の夕飯は何にしようかな。",
+      "en": "What shall I cook for dinner."
+    }
+  ]
+}

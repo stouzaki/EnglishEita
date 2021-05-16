@@ -1,0 +1,41 @@
+{
+  "title_no": "script-01 3-03",
+  "title": "通勤・通学",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "行ってきます！",
+      "en": "See you later, honey !"
+    },
+    {
+      "id": "02",
+      "ja": "早く帰ってきてね！",
+      "en": "Come back early, dear !"
+    },
+    {
+      "id": "03",
+      "ja": "満員電車にも慣れました。",
+      "en": "I got used to rush hour trains."
+    },
+    {
+      "id": "04",
+      "ja": "痴漢です。",
+      "en": "Pervert !"
+    },
+    {
+      "id": "05",
+      "ja": "ここは女性専用の車両です。",
+      "en": "This car is only for women."
+    },
+    {
+      "id": "06",
+      "ja": "チャージしなきゃ。",
+      "en": "I need to charge my train pass."
+    },
+    {
+      "id": "07",
+      "ja": "電車が遅れて、遅刻しました。",
+      "en": "The train was delayed. Sorry for being late."
+    }
+  ]
+}

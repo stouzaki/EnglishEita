@@ -1,0 +1,36 @@
+{
+  "title_no": "script-01 4-05",
+  "title": "帰宅",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "お母さん、ただいま。",
+      "en": "Mom, I'm home."
+    },
+    {
+      "id": "02",
+      "ja": "お腹すいた。",
+      "en": "I'm hungry."
+    },
+    {
+      "id": "03",
+      "ja": "おやつある？",
+      "en": "Do you have any snacks?"
+    },
+    {
+      "id": "04",
+      "ja": "裕太の家に遊びに行ってくるね。",
+      "en": "I'll be with Yuta at his house."
+    },
+    {
+      "id": "05",
+      "ja": "お風呂にする？それともご飯？",
+      "en": "Do you want to take a shower or eat dinner first?"
+    },
+    {
+      "id": "06",
+      "ja": "とりあえずビールちょうだい。",
+      "en": "I want to start off with beer."
+    }
+  ]
+}

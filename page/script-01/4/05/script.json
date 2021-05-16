@@ -1,0 +1,66 @@
+{
+  "title_no": "script-01 4-05",
+  "title": "食事の買い物・準備",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "夕飯はカレーライスにしよう。",
+      "en": "We'll have curry and rice for dinner."
+    },
+    {
+      "id": "02",
+      "ja": "今日は卵が特売だ。",
+      "en": "Eggs are on sale today."
+    },
+    {
+      "id": "03",
+      "ja": "割引券を持っています。",
+      "en": "I have some coupons."
+    },
+    {
+      "id": "04",
+      "ja": "レジ袋を貰えますか？",
+      "en": "Can I have a bag?"
+    },
+    {
+      "id": "05",
+      "ja": "玉ねぎを切ったら涙が出てきた。",
+      "en": "Cutting onions made me cry."
+    },
+    {
+      "id": "06",
+      "ja": "千切りにしなくちゃ。",
+      "en": "I have to cut them into thin slices."
+    },
+    {
+      "id": "07",
+      "ja": "解凍しておくね。",
+      "en": "I'm going to defrost this."
+    },
+    {
+      "id": "08",
+      "ja": "お米といでおいて！",
+      "en": "Rince the rice, please."
+    },
+    {
+      "id": "09",
+      "ja": "最初は強火ね。",
+      "en": "First, turn the stove on high heat."
+    },
+    {
+      "id": "10",
+      "ja": "味噌を切らしてた。",
+      "en": "We've run out of miso."
+    },
+    {
+      "id": "11",
+      "ja": "お鍋を焦がしちゃった。",
+      "en": "I completely burned the pot."
+    },
+    {
+      "id": "12",
+      "ja": "夕飯の支度を手伝って！",
+      "en": "Help me prepare dinner!"
+    }
+  ]
+}

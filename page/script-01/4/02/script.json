@@ -1,0 +1,101 @@
+{
+  "title_no": "script-01 4-02",
+  "title": "オフィス",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "お疲れ様です。",
+      "en": "How was it?"
+    },
+    {
+      "id": "02",
+      "ja": "社内公用語は英語です。",
+      "en": "The official language in our company is English."
+    },
+    {
+      "id": "03",
+      "ja": "企画書を10部コピーしてください。",
+      "en": "Can you make 10 copies of this proposal?"
+    },
+    {
+      "id": "04",
+      "ja": "締め切りはいつでしょうか？",
+      "en": "When is the deadline?"
+    },
+    {
+      "id": "05",
+      "ja": "名刺を忘れずに持ってきてくださいね。",
+      "en": "Make sure you bring your business cards, OK?"
+    },
+    {
+      "id": "06",
+      "ja": "例の案件はどうなっている？",
+      "en": "What happend to the project we talked about?"
+    },
+    {
+      "id": "07",
+      "ja": "君には期待しているよ。",
+      "en": "I have a lot of expectations of you."
+    },
+    {
+      "id": "08",
+      "ja": "内線番号は416です。",
+      "en": "The extension number is 416."
+    },
+    {
+      "id": "09",
+      "ja": "14時からテレビ会議を始めよう。",
+      "en": "Let's start the video conference at 2:00 p.m."
+    },
+    {
+      "id": "10",
+      "ja": "今日のお昼はお弁当です。",
+      "en": "I brought a lunch box today."
+    },
+    {
+      "id": "11",
+      "ja": "企画が通りました！",
+      "en": "My proposal got approved !"
+    },
+    {
+      "id": "12",
+      "ja": "残業しなきゃ。",
+      "en": "I'll have to do overtime today."
+    },
+    {
+      "id": "13",
+      "ja": "お先に失礼します。",
+      "en": "I'm leaving now."
+    },
+    {
+      "id": "14",
+      "ja": "直帰します。",
+      "en": "I'll just go straight home."
+    },
+    {
+      "id": "15",
+      "ja": "今週の日曜日は休日出勤なんだ。",
+      "en": "This Sunday is a working day for me."
+    },
+    {
+      "id": "16",
+      "ja": "ボーナスが下がったよ。",
+      "en": "My bonus was cut."
+    },
+    {
+      "id": "17",
+      "ja": "昇進が決まりました。",
+      "en": "I got promoted."
+    },
+    {
+      "id": "18",
+      "ja": "転職したいな～。",
+      "en": "I want to switch jobs."
+    },
+    {
+      "id": "19",
+      "ja": "それはセクハラですよ。",
+      "en": "That's considered sexual harassment."
+    }
+  ]
+}
