@@ -1,0 +1,41 @@
+{
+  "title_no": "script-01 5-02",
+  "title": "バスタイム",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "ああ、さっぱりした。",
+      "en": "I feel so refreshed after showering."
+    },
+    {
+      "id": "02",
+      "ja": "ちょっとお湯が熱いね。",
+      "en": "I think the water is a little too hot for me."
+    },
+    {
+      "id": "03",
+      "ja": "入浴剤は何にする？",
+      "en": "What kind of bath salts do you want?"
+    },
+    {
+      "id": "04",
+      "ja": "シャンプーが切れてたよ。",
+      "en": "We don't have any shampoo left."
+    },
+    {
+      "id": "05",
+      "ja": "湯あたりしちゃった。",
+      "en": "The hot bath made me dizzy."
+    },
+    {
+      "id": "06",
+      "ja": "銭湯に行ったことはありますか？",
+      "en": "Have you been to a public bath?"
+    },
+    {
+      "id": "07",
+      "ja": "風呂上がりのビールは格別だね！",
+      "en": "A beer just after a bath is so refleshing !"
+    }
+  ]
+}

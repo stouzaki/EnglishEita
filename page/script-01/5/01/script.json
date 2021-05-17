@@ -1,0 +1,66 @@
+{
+  "title_no": "script-01 5-01",
+  "title": "食事",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "ご飯よ！",
+      "en": "Dinner's ready !"
+    },
+    {
+      "id": "02",
+      "ja": "何飲む？",
+      "en": "What do you want to drink?"
+    },
+    {
+      "id": "03",
+      "ja": "好き嫌いはいけません。",
+      "en": "You should't be picky about food."
+    },
+    {
+      "id": "04",
+      "ja": "残さず食べなさい。",
+      "en": "Don't leave anything on your plate."
+    },
+    {
+      "id": "05",
+      "ja": "オムレツ、とってもおいしい！",
+      "en": "This omelette is so delicious !"
+    },
+    {
+      "id": "06",
+      "ja": "僕の大好物のハンバーグだ。",
+      "en": "You coocked my favorite hamburger steak for me !"
+    },
+    {
+      "id": "07",
+      "ja": "おかわり！",
+      "en": "Can I have more?"
+    },
+    {
+      "id": "08",
+      "ja": "お腹がいっぱいだからもういらない。",
+      "en": "No, thanks. I'm full."
+    },
+    {
+      "id": "09",
+      "ja": "ちょっと味が薄いね。",
+      "en": "It's bland."
+    },
+    {
+      "id": "10",
+      "ja": "もう少し塩がきいているといいね。",
+      "en": "I think this dish needs a little more salt."
+    },
+    {
+      "id": "11",
+      "ja": "今日は、出前をとろうか？",
+      "en": "Should we have dinner delivered today?"
+    },
+    {
+      "id": "12",
+      "ja": "箸使いが上手だね！",
+      "en": "You're so good at using chopsticks !"
+    }
+  ]
+}

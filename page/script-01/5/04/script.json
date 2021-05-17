@@ -1,0 +1,76 @@
+{
+  "title_no": "script-01 5-04",
+  "title": "就寝",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "おやすみなさい。",
+      "en": "Good night."
+    },
+    {
+      "id": "02",
+      "ja": "ぐっすり眠ってね！",
+      "en": "Sleep tight !"
+    },
+    {
+      "id": "03",
+      "ja": "いい夢見てね！",
+      "en": "Sweet dreams !"
+    },
+    {
+      "id": "04",
+      "ja": "ああ、眠れないなあ。",
+      "en": "Ugh, I can't sleep."
+    },
+    {
+      "id": "05",
+      "ja": "睡眠薬を飲もうかな。",
+      "en": "I might take a sleeping pill."
+    },
+    {
+      "id": "06",
+      "ja": "夜中に何度もトイレに行きます。",
+      "en": "I often get up at night to go to the bathroom."
+    },
+    {
+      "id": "07",
+      "ja": "歯ぎしりがひどいよ。",
+      "en": "You grind your teeth so loudly."
+    },
+    {
+      "id": "08",
+      "ja": "寝言を言ってたよ。",
+      "en": "You were talking in your sleep."
+    },
+    {
+      "id": "09",
+      "ja": "いびきがうるさかったよ。",
+      "en": "Your snoring disturbed my sleep."
+    },
+    {
+      "id": "10",
+      "ja": "あれ、起こしちゃった？",
+      "en": "Oh, did I wake you up?"
+    },
+    {
+      "id": "11",
+      "ja": "寝相が悪いの。",
+      "en": "I toss and turn a lot in my sleep."
+    },
+    {
+      "id": "12",
+      "ja": "寝癖がついちゃった。",
+      "en": "I have bed hair."
+    },
+    {
+      "id": "13",
+      "ja": "エアコンのタイマー、セットして。",
+      "en": "Set the timer for the air-conditioning."
+    },
+    {
+      "id": "14",
+      "ja": "目覚まし時計をかけなきゃ。",
+      "en": "I have to set the alarm clock."
+    }
+  ]
+}

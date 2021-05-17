@@ -1,0 +1,51 @@
+{
+  "title_no": "script-01 5-03",
+  "title": "リラックスタイム",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "甘いもの食べちゃおう。",
+      "en": "I want something sweet now."
+    },
+    {
+      "id": "02",
+      "ja": "アロマでも焚いて気分転換しよう。",
+      "en": "I'll relax by lighting aroma candles."
+    },
+    {
+      "id": "03",
+      "ja": "録りためたドラマを見ようっと。",
+      "en": "I'll watch the dramas I recorded now."
+    },
+    {
+      "id": "04",
+      "ja": "お笑い番組を見るとほっとします。",
+      "en": "Comedy shows help me to unwind a lot."
+    },
+    {
+      "id": "05",
+      "ja": "村上春樹の小説でも読もうかな。彼がお気に入りなんだ。",
+      "en": "I'll read a book by Hraruki Murakami. He's my favorite."
+    },
+    {
+      "id": "06",
+      "ja": "親友との長電話が一番癒される。",
+      "en": "Long-distance calls with my best friend warm my heart."
+    },
+    {
+      "id": "07",
+      "ja": "子供の寝顔を見ると疲れも吹き飛びます。",
+      "en": "All of my stress goes away just by looking at my children's sleeping faces."
+    },
+    {
+      "id": "08",
+      "ja": "ボーっとするのが、いちばんのストレス発散です。",
+      "en": "Zoning out is the best way to relieve stress."
+    },
+    {
+      "id": "09",
+      "ja": "寝る前に瞑想するとよく眠れます。",
+      "en": "I can sleep well if I meditate before going to bed."
+    }
+  ]
+}
