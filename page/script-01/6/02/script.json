@@ -1,0 +1,81 @@
+{
+  "title_no": "script-01 6-02",
+  "title": "",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "日本には四季があります。",
+      "en": "We have four distinct seasons in Japan."
+    },
+    {
+      "id": "02",
+      "ja": "今、あなたの国の季節は何ですか？",
+      "en": "What season is it in your country now?"
+    },
+    {
+      "id": "03",
+      "ja": "桜の季節ですね。",
+      "en": "It's the season for cherry blossoms."
+    },
+    {
+      "id": "04",
+      "ja": "花より団子というよね。",
+      "en": "Bread is better than the song of a bird."
+    },
+    {
+      "id": "05",
+      "ja": "春一番が吹きました。",
+      "en": "We've had our first spring storm."
+    },
+    {
+      "id": "06",
+      "ja": "花粉症は大丈夫ですか？",
+      "en": "How's your hay fever?"
+    },
+    {
+      "id": "07",
+      "ja": "梅雨は憂鬱だな。",
+      "en": "The rainy season is so depressing."
+    },
+    {
+      "id": "08",
+      "ja": "今年のすいかはおいしいですね。",
+      "en": "Watermelons this year are extremely good !"
+    },
+    {
+      "id": "09",
+      "ja": "夏はやっぱりかき氷に限るね！",
+      "en": "I love to eat \"kakigori\" in the summer !"
+    },
+    {
+      "id": "10",
+      "ja": "猛暑が続いて熱中症になった。",
+      "en": "I got heat stroke because of the terrible heat wave."
+    },
+    {
+      "id": "11",
+      "ja": "夏休みのご予定は？",
+      "en": "What're your plans for the summer holidays?"
+    },
+    {
+      "id": "12",
+      "ja": "秋めいてきました。",
+      "en": "Looks like fall is comming."
+    },
+    {
+      "id": "13",
+      "ja": "今年は暖冬らしいよ。",
+      "en": "We are going to have mild winter this year."
+    },
+    {
+      "id": "14",
+      "ja": "冬至にはゆず湯に入ろう。",
+      "en": "Let's put a few slices of \"yuzu\" in our hot bath on the winter solstice day."
+    },
+    {
+      "id": "15",
+      "ja": "もうすぐお正月。",
+      "en": "It'll soon be New Year's."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "title_no": "script-01 6-01",
+  "title": "天気",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "ふう。今日は暑かったね！",
+      "en": "Whew! It was such a hot day!"
+    },
+    {
+      "id": "02",
+      "ja": "日本は湿気が多いんです。",
+      "en": "We have a lot of humidity in Japan."
+    },
+    {
+      "id": "03",
+      "ja": "過ごしやすいお天気ですね。",
+      "en": "The weather is pleasant."
+    },
+    {
+      "id": "04",
+      "ja": "降水確率は60%だよ。",
+      "en": "The chance of rain is 60％."
+    },
+    {
+      "id": "05",
+      "ja": "にわか雨が降るみたい。",
+      "en": "We might get a sudden shower today."
+    },
+    {
+      "id": "06",
+      "ja": "どしゃ降りになるらしい。",
+      "en": "It's going to be pouring rain."
+    },
+    {
+      "id": "07",
+      "ja": "雨が全く降らない。今年の夏は水不足だ。",
+      "en": "No rain... I'm sure we'll have a water shortage this summer."
+    },
+    {
+      "id": "08",
+      "ja": "今朝は少し霜がおりたよ。",
+      "en": "We have a slight frost this morning."
+    },
+    {
+      "id": "09",
+      "ja": "北海道では初雪が降ったって。",
+      "en": "They had a first snow in Hokkaido."
+    },
+    {
+      "id": "10",
+      "ja": "寒さがやわらいできましたね。",
+      "en": "I think it's getting milder these days."
+    },
+    {
+      "id": "11",
+      "ja": "近くに雷が落ちたみたい。",
+      "en": "Looks like lightning struck somewhere nearby."
+    },
+    {
+      "id": "12",
+      "ja": "台風6号が来てますね。",
+      "en": "Typhoon No.6 is approaching."
+    },
+    {
+      "id": "13",
+      "ja": "蒸し暑いですね。",
+      "en": "It's so muggy."
+    },
+    {
+      "id": "14",
+      "ja": "乾燥しているから火事に注意。",
+      "en": "The air is so dry. Watch out for fires."
+    },
+    {
+      "id": "15",
+      "ja": "ぽかぽか陽気ですね。",
+      "en": "It's warm and sunny today."
+    },
+    {
+      "id": "16",
+      "ja": "じめじめしているなあ。",
+      "en": "It's so damp and humid."
+    },
+    {
+      "id": "17",
+      "ja": "見て！虹が出てるよ。",
+      "en": "Look at the rainbow over there."
+    }
+  ]
+}
