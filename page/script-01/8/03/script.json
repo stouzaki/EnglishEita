@@ -1,0 +1,66 @@
+{
+  "title_no": "script-01 8-03",
+  "title": "悪口・悪態",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "最悪！",
+      "en": "Damn !"
+    },
+    {
+      "id": "02",
+      "ja": "ばかじゃないの。",
+      "en": "You're stupid."
+    },
+    {
+      "id": "03",
+      "ja": "ひどいわ！",
+      "en": "You are the worst !"
+    },
+    {
+      "id": "04",
+      "ja": "ばか！",
+      "en": "Idiot !"
+    },
+    {
+      "id": "05",
+      "ja": "最低。",
+      "en": "You're disgusting."
+    },
+    {
+      "id": "06",
+      "ja": "精神年齢が低いんじゃない？",
+      "en": "You are acting like a child."
+    },
+    {
+      "id": "07",
+      "ja": "やれやれ…",
+      "en": "Oh, my..."
+    },
+    {
+      "id": "08",
+      "ja": "あいつってむかつく。",
+      "en": "He makes me sick."
+    },
+    {
+      "id": "09",
+      "ja": "けんか売ってるの？",
+      "en": "Are you picking a fight?"
+    },
+    {
+      "id": "10",
+      "ja": "もういいよ！",
+      "en": "That's enough !"
+    },
+    {
+      "id": "11",
+      "ja": "いいかげんにしろよ。",
+      "en": "Give me a break."
+    },
+    {
+      "id": "12",
+      "ja": "無視しよう。",
+      "en": "Let's ignore him."
+    }
+  ]
+}

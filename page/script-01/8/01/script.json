@@ -1,0 +1,96 @@
+{
+  "title_no": "script-01 8-01",
+  "title": "うわさ話",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "ただのうわさですよ。",
+      "en": "It's just rumor."
+    },
+    {
+      "id": "02",
+      "ja": "根も葉もない話です。",
+      "en": "The rumor is groundless."
+    },
+    {
+      "id": "03",
+      "ja": "その噂は聞いてるよ。",
+      "en": "That rumor has been going around for a while."
+    },
+    {
+      "id": "04",
+      "ja": "噂をすれば影だね。。。",
+      "en": "Speak of the devil..."
+    },
+    {
+      "id": "05",
+      "ja": "噂が広がるのは速いね。",
+      "en": "Rumors spread fast."
+    },
+    {
+      "id": "06",
+      "ja": "風の便りに聞いたのですが。。。",
+      "en": "A little bird told me..."
+    },
+    {
+      "id": "07",
+      "ja": "彼女に話したら、言いふらされるよ。",
+      "en": "She likes to gossip."
+    },
+    {
+      "id": "08",
+      "ja": "彼は口が軽いから、気を付けて。",
+      "en": "He's a big mouth."
+    },
+    {
+      "id": "09",
+      "ja": "彼女、最近どうしているの？",
+      "en": "Is there any news about her?"
+    },
+    {
+      "id": "10",
+      "ja": "あれからどうなった？",
+      "en": "Anything new since then?"
+    },
+    {
+      "id": "11",
+      "ja": "ひそひそ話そう。",
+      "en": "Let's whisper."
+    },
+    {
+      "id": "12",
+      "ja": "ねえねえ、知ってた？",
+      "en": "Hey, did you know?"
+    },
+    {
+      "id": "13",
+      "ja": "聞いて驚かないで！",
+      "en": "I have great news !"
+    },
+    {
+      "id": "14",
+      "ja": "内緒だよ。",
+      "en": "Keep it a secret."
+    },
+    {
+      "id": "15",
+      "ja": "誰にも言わないでね。",
+      "en": "It's between you and me, alright?"
+    },
+    {
+      "id": "16",
+      "ja": "これ、本当の話だよ。",
+      "en": "This is a true story."
+    },
+    {
+      "id": "17",
+      "ja": "何も知らないくせに。",
+      "en": "You don't know that."
+    },
+    {
+      "id": "18",
+      "ja": "正直に言ってよ！",
+      "en": "Don't be so secretive !"
+    }
+  ]
+}

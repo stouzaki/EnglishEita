@@ -1,0 +1,41 @@
+{
+  "title_no": "script-01 7-01",
+  "title": "食べ物や体の一部を使った慣用句",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "朝飯前さ。",
+      "en": "It's a piece of cake."
+    },
+    {
+      "id": "02",
+      "ja": "本が飛ぶように売れてるって！",
+      "en": "The book is selling like hotcakes !"
+    },
+    {
+      "id": "03",
+      "ja": "彼は手ごわいよ。",
+      "en": "He's a tough cookie."
+    },
+    {
+      "id": "04",
+      "ja": "彼らはいつも一緒！",
+      "en": "The are like two peas in a pod !"
+    },
+    {
+      "id": "05",
+      "ja": "だらしないなぁ！",
+      "en": "Don't be couch potato !"
+    },
+    {
+      "id": "06",
+      "ja": "不器用なんです。",
+      "en": "I'm all thumbs."
+    },
+    {
+      "id": "07",
+      "ja": "一生懸命、聞いています。",
+      "en": "I'm all ears."
+    }
+  ]
+}

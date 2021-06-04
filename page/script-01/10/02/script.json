@@ -1,0 +1,91 @@
+{
+  "title_no": "script-01 10-02",
+  "title": "性格",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "彼女は優しい性格です。",
+      "en": "She's very gentle."
+    },
+    {
+      "id": "02",
+      "ja": "彼女って自己主張強いよね。",
+      "en": "She's a bit aggressive."
+    },
+    {
+      "id": "03",
+      "ja": "彼女は控えめな人ですね。",
+      "en": "She's a modest person."
+    },
+    {
+      "id": "04",
+      "ja": "彼は目立ちたがり屋なんだ。",
+      "en": "He likes to stand out."
+    },
+    {
+      "id": "05",
+      "ja": "彼は人気者ですね。",
+      "en": "He's everyone's favorite."
+    },
+    {
+      "id": "06",
+      "ja": "彼女はにぎやかなことが好きです。",
+      "en": "She's a party girl."
+    },
+    {
+      "id": "07",
+      "ja": "彼はカリスマ性があります。",
+      "en": "He's charismatic."
+    },
+    {
+      "id": "08",
+      "ja": "あなたはいっしょにいて楽しい人ですね。",
+      "en": "You are fun to be with."
+    },
+    {
+      "id": "09",
+      "ja": "彼はひょうきん者です。",
+      "en": "He's a clown."
+    },
+    {
+      "id": "10",
+      "ja": "彼はクールな性格です。",
+      "en": "He never gets emotional."
+    },
+    {
+      "id": "11",
+      "ja": "彼はこだわりが強いよ。",
+      "en": "He's picky."
+    },
+    {
+      "id": "12",
+      "ja": "彼は基本的にまじめだよね。",
+      "en": "Basically, he's a serious guy."
+    },
+    {
+      "id": "13",
+      "ja": "やつは頑固者でねぇ。",
+      "en": "He's so stubborn."
+    },
+    {
+      "id": "14",
+      "ja": "彼女には清潔感があります。",
+      "en": "She always looks neat."
+    },
+    {
+      "id": "15",
+      "ja": "彼は素直でいい人だね。",
+      "en": "He's candid and nice."
+    },
+    {
+      "id": "16",
+      "ja": "彼女は芯がとおっているね。",
+      "en": "She looks gentle but is strong inside."
+    },
+    {
+      "id": "17",
+      "ja": "彼は案外、頑張り屋だ。",
+      "en": "Surprisingly, he's a hard worker."
+    }
+  ]
+}

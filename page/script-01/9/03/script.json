@@ -1,0 +1,81 @@
+{
+  "title_no": "script-01 9-03",
+  "title": "悲しい",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "悲しいです。",
+      "en": "I'm sad."
+    },
+    {
+      "id": "02",
+      "ja": "つらいよ。",
+      "en": "It's just so hard for me."
+    },
+    {
+      "id": "03",
+      "ja": "がっかりだよ。",
+      "en": "I'm disappointed."
+    },
+    {
+      "id": "04",
+      "ja": "本当にがっかりだよ。",
+      "en": "I'm very sorry."
+    },
+    {
+      "id": "05",
+      "ja": "恥ずかしかったぁ。",
+      "en": "I was so embarrassed."
+    },
+    {
+      "id": "06",
+      "ja": "恥をかかされたよ。",
+      "en": "They humiliated me."
+    },
+    {
+      "id": "07",
+      "ja": "ショックでした。",
+      "en": "I was so shocked."
+    },
+    {
+      "id": "08",
+      "ja": "この気持ち、他人にはわかりません。",
+      "en": "Nobody understands how I feel."
+    },
+    {
+      "id": "09",
+      "ja": "泣いてばかりです。",
+      "en": "I can do nothing but cry."
+    },
+    {
+      "id": "10",
+      "ja": "悲しくて胸がいっぱい。",
+      "en": "I've got a lump in my throat."
+    },
+    {
+      "id": "11",
+      "ja": "はぁ。。。",
+      "en": "Sigh..."
+    },
+    {
+      "id": "12",
+      "ja": "悔しくてしょうがないよ。",
+      "en": "I could have done better."
+    },
+    {
+      "id": "13",
+      "ja": "さみしいなぁ。",
+      "en": "I'm lonely."
+    },
+    {
+      "id": "14",
+      "ja": "悲しみから抜け出せません。",
+      "en": "It's so hard to get over this."
+    },
+    {
+      "id": "15",
+      "ja": "悲しくて涙が出そう。",
+      "en": "I'm so sad I could cry."
+    }
+  ]
+}

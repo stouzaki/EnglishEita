@@ -1,0 +1,116 @@
+{
+  "title_no": "script-01 12-02",
+  "title": "機内",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "荷物を入れたいので手伝ってもらえますか？",
+      "en": "Would you help me to put my luggage up?"
+    },
+    {
+      "id": "02",
+      "ja": "シートベルトをお締めください。",
+      "en": "Fasten your seat belt, please."
+    },
+    {
+      "id": "03",
+      "ja": "きれいなキャビンアテンダントだなぁ。",
+      "en": "She is charming flight attendant."
+    },
+    {
+      "id": "04",
+      "ja": "ひざかけをもらえますか？",
+      "en": "Can I have a blanket?"
+    },
+    {
+      "id": "05",
+      "ja": "機内販売はいつ買えますか？",
+      "en": "When can we purchase in-flight duty-free?"
+    },
+    {
+      "id": "06",
+      "ja": "映画の見方がわかりません。",
+      "en": "I don't know how to make the movie play."
+    },
+    {
+      "id": "07",
+      "ja": "耳がキーンとするね。",
+      "en": "My ears hurt."
+    },
+    {
+      "id": "08",
+      "ja": "トイレはもう使えますか？",
+      "en": "Can we use the lavatory now?"
+    },
+    {
+      "id": "09",
+      "ja": "機内食の時間だよ。",
+      "en": "It's time for dinner."
+    },
+    {
+      "id": "10",
+      "ja": "機内食はいりません。",
+      "en": "No meal for me."
+    },
+    {
+      "id": "11",
+      "ja": "あとでスナックを貰えますか？",
+      "en": "Will you serve snacks later?"
+    },
+    {
+      "id": "12",
+      "ja": "チキンとビーフ、どちらになさいますか？",
+      "en": "Would you like chicken or beef?"
+    },
+    {
+      "id": "13",
+      "ja": "チキンにしてください。",
+      "en": "Chiken, please."
+    },
+    {
+      "id": "14",
+      "ja": "コーヒーをください。",
+      "en": "Can I have coffee?"
+    },
+    {
+      "id": "15",
+      "ja": "日本まであとどれくらいですか？",
+      "en": "How many more hours is it to Japan?"
+    },
+    {
+      "id": "16",
+      "ja": "今どの辺を飛んでいるの？",
+      "en": "Where are we flying now?"
+    },
+    {
+      "id": "17",
+      "ja": "現地の天気はどうですか？",
+      "en": "What's the weather over there?"
+    },
+    {
+      "id": "18",
+      "ja": "揺れるけど大丈夫？",
+      "en": "This is a rough flight. Are you OK?"
+    },
+    {
+      "id": "19",
+      "ja": "トイレに行きたいので、ちょっと失礼。",
+      "en": "Excuse me, I need to get out."
+    },
+    {
+      "id": "20",
+      "ja": "気分が悪いです。",
+      "en": "I'm feeling sick."
+    },
+    {
+      "id": "21",
+      "ja": "ハイジャックされたみたいだ。",
+      "en": "Looks like the plane has been hijacked."
+    },
+    {
+      "id": "22",
+      "ja": "緊急着陸するようですね。",
+      "en": "The pilot is saying we will make an emergency landing."
+    }
+  ]
+}

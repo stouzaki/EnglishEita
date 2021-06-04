@@ -1,0 +1,71 @@
+{
+  "title_no": "script-01 9-02",
+  "title": "楽しい",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "楽しい！",
+      "en": "It's fun!"
+    },
+    {
+      "id": "02",
+      "ja": "楽しんでますよ。",
+      "en": "I'm having a great time."
+    },
+    {
+      "id": "03",
+      "ja": "超楽しみです。",
+      "en": "I'm looking forward to it so much."
+    },
+    {
+      "id": "04",
+      "ja": "楽しみにしていました。",
+      "en": "I've been waiting for this for a long time."
+    },
+    {
+      "id": "05",
+      "ja": "楽しみすぎて眠れません。",
+      "en": "I'm too excited to sleep."
+    },
+    {
+      "id": "06",
+      "ja": "ヤッホー！",
+      "en": "Yahoo!"
+    },
+    {
+      "id": "07",
+      "ja": "絶好調だよ。",
+      "en": "I couldn't be better."
+    },
+    {
+      "id": "08",
+      "ja": "興奮しています。",
+      "en": "I'm so thrilled."
+    },
+    {
+      "id": "09",
+      "ja": "どきどきしてきちゃった。",
+      "en": "I have butterflies in my stomach."
+    },
+    {
+      "id": "10",
+      "ja": "この時間が永遠に続くといいな。",
+      "en": "I wish this moment could last forever."
+    },
+    {
+      "id": "11",
+      "ja": "楽しくて時間を忘れちゃった！",
+      "en": "I was so into it, I lost track of the time!"
+    },
+    {
+      "id": "12",
+      "ja": "帰りたくない。",
+      "en": "I wish I could stay here longer."
+    },
+    {
+      "id": "13",
+      "ja": "ランランラン（鼻歌）。",
+      "en": "Hmm hmm hmm..."
+    }
+  ]
+}

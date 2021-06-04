@@ -1,0 +1,81 @@
+{
+  "title_no": "script-01 9-05",
+  "title": "怒る",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "いいかげんにして！",
+      "en": "Leave me alone !"
+    },
+    {
+      "id": "02",
+      "ja": "非常識です。",
+      "en": "That's nonsense."
+    },
+    {
+      "id": "03",
+      "ja": "もう信じられない。",
+      "en": "I can't believe you any more."
+    },
+    {
+      "id": "04",
+      "ja": "君には裏切られた。",
+      "en": "You betrayed me."
+    },
+    {
+      "id": "05",
+      "ja": "絶交です。",
+      "en": "I'm done with you."
+    },
+    {
+      "id": "06",
+      "ja": "君ってやつは！",
+      "en": "What kind of person are you?"
+    },
+    {
+      "id": "07",
+      "ja": "そんなに怒るなよ！",
+      "en": "Don't be so mad!"
+    },
+    {
+      "id": "08",
+      "ja": "まぁまぁ。",
+      "en": "Calm down."
+    },
+    {
+      "id": "09",
+      "ja": "落ち着いて！",
+      "en": "Slow down!"
+    },
+    {
+      "id": "10",
+      "ja": "仲直りしようよ。",
+      "en": "Let's make pieace."
+    },
+    {
+      "id": "11",
+      "ja": "すぐには許せない。",
+      "en": "I'm too mad to forgive you so soon."
+    },
+    {
+      "id": "12",
+      "ja": "もう許してくれる？",
+      "en": "Isn't it almost time to forgive me?"
+    },
+    {
+      "id": "13",
+      "ja": "いつまで怒ってるの？",
+      "en": "Are you still mad at me?"
+    },
+    {
+      "id": "14",
+      "ja": "こら！",
+      "en": "Hey! Don't!"
+    },
+    {
+      "id": "15",
+      "ja": "むかっ！",
+      "en": "Darn!"
+    }
+  ]
+}

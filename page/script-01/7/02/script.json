@@ -1,0 +1,96 @@
+{
+  "title_no": "script-01 7-02",
+  "title": "気遣い",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "大丈夫？",
+      "en": "Are you alright?"
+    },
+    {
+      "id": "02",
+      "ja": "大丈夫だよ。",
+      "en": "I'm fine."
+    },
+    {
+      "id": "03",
+      "ja": "問題ないよ。",
+      "en": "No problem."
+    },
+    {
+      "id": "04",
+      "ja": "気をつけて帰ってね！",
+      "en": "Be safe !"
+    },
+    {
+      "id": "05",
+      "ja": "寒くありませんか？",
+      "en": "Aren't you cold?"
+    },
+    {
+      "id": "06",
+      "ja": "待った？",
+      "en": "Did I make you wait?"
+    },
+    {
+      "id": "07",
+      "ja": "楽しんでますか？",
+      "en": "Are you having a good time?"
+    },
+    {
+      "id": "08",
+      "ja": "気分悪くない？",
+      "en": "Are you feeling OK?"
+    },
+    {
+      "id": "09",
+      "ja": "お仕事頑張ってください。",
+      "en": "Good luck with your work."
+    },
+    {
+      "id": "10",
+      "ja": "それは心配だよね。",
+      "en": "I understand how you feel."
+    },
+    {
+      "id": "11",
+      "ja": "ズボンのチャックが開いているよ。",
+      "en": "Your fly is open."
+    },
+    {
+      "id": "12",
+      "ja": "タメ口でオーケーだよ。",
+      "en": "You can talk to me in a more casual way."
+    },
+    {
+      "id": "13",
+      "ja": "楽にしてね。",
+      "en": "Take it easy and realx."
+    },
+    {
+      "id": "14",
+      "ja": "肩の力を抜いて。",
+      "en": "Take a deep breath and you'll be OK."
+    },
+    {
+      "id": "15",
+      "ja": "疲れてませんか？",
+      "en": "Aren't you tired?"
+    },
+    {
+      "id": "16",
+      "ja": "一休みしない？",
+      "en": "Shall we take a break?"
+    },
+    {
+      "id": "17",
+      "ja": "お大事にね！",
+      "en": "Take care !"
+    },
+    {
+      "id": "18",
+      "ja": "お大事にしてください。",
+      "en": "Take care of yourself."
+    }
+  ]
+}

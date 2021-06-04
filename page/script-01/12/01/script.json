@@ -1,0 +1,81 @@
+{
+  "title_no": "script-01 12-01",
+  "title": "空港",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "NAO空港のチェックインカウンターはどこ？",
+      "en": "Where's the check-in counter for NAO Airline?"
+    },
+    {
+      "id": "02",
+      "ja": "シンガポール経由のタイ行きです。",
+      "en": "This flight goes to Thailand through Singapore."
+    },
+    {
+      "id": "03",
+      "ja": "ロンドン行きのチケットはありますか？",
+      "en": "Do you have tickets to London?"
+    },
+    {
+      "id": "04",
+      "ja": "手荷物を預けたいのですが。",
+      "en": "We have these bags to check-in."
+    },
+    {
+      "id": "05",
+      "ja": "この鞄は機内に持ち込めますか？",
+      "en": "Can I carry this bag on with me?"
+    },
+    {
+      "id": "06",
+      "ja": "重量制限はありますか？",
+      "en": "Do you have a weight limit?"
+    },
+    {
+      "id": "07",
+      "ja": "通路側の席をお願いします。",
+      "en": "I'd like an aile seat."
+    },
+    {
+      "id": "08",
+      "ja": "ビジネスクラスにアップグレードしていただけますか？",
+      "en": "Could you upgrade me to business class?"
+    },
+    {
+      "id": "09",
+      "ja": "隣同士でなくても大丈夫です。",
+      "en": "It'll be OK if we have to sit separately."
+    },
+    {
+      "id": "10",
+      "ja": "搭乗時間は何時ですか？",
+      "en": "When do we board?"
+    },
+    {
+      "id": "11",
+      "ja": "NAO航空730便の搭乗口は何番ですか？",
+      "en": "What's the gate for flight NAO730?"
+    },
+    {
+      "id": "12",
+      "ja": "入国審査が厳しくなったよ。",
+      "en": "Immigration inspection has become strict."
+    },
+    {
+      "id": "13",
+      "ja": "ラウンジは使えますか？",
+      "en": "Can we use the lounge?"
+    },
+    {
+      "id": "14",
+      "ja": "免税店で化粧品を買いたい。",
+      "en": "I want to buy cosmetics at the duty-free shop."
+    },
+    {
+      "id": "15",
+      "ja": "お見送りありがとう。",
+      "en": "Thank you for comming to see me off."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "title_no": "script-01 9-06",
+  "title": "驚き",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "パニクったよ、もう！",
+      "en": "Don't make me panic!"
+    },
+    {
+      "id": "02",
+      "ja": "信じられない！",
+      "en": "It's hard to belive!"
+    },
+    {
+      "id": "03",
+      "ja": "冗談やめてよ！",
+      "en": "Stop it!"
+    },
+    {
+      "id": "04",
+      "ja": "からかわないで！",
+      "en": "Stop teasing!"
+    },
+    {
+      "id": "05",
+      "ja": "まじ、びっくりした！",
+      "en": "I freaked out!"
+    },
+    {
+      "id": "06",
+      "ja": "ちょっと、行き過ぎたかな。",
+      "en": "Sorry, I got carried away."
+    },
+    {
+      "id": "07",
+      "ja": "強烈！",
+      "en": "That's severe!"
+    },
+    {
+      "id": "08",
+      "ja": "ありえないね。",
+      "en": "It can't be true."
+    },
+    {
+      "id": "09",
+      "ja": "ありえない！",
+      "en": "It's a miracle!"
+    },
+    {
+      "id": "10",
+      "ja": "驚いたぁ、もう！",
+      "en": "It scared me to death!"
+    },
+    {
+      "id": "11",
+      "ja": "またまたぁ。",
+      "en": "You're joking again."
+    },
+    {
+      "id": "12",
+      "ja": "本当に不思議！",
+      "en": "It wasn't a dream, was it?"
+    },
+    {
+      "id": "13",
+      "ja": "夢じゃないかしら。",
+      "en": "It's too good to be true."
+    },
+    {
+      "id": "14",
+      "ja": "ほっぺた、つねってみて。",
+      "en": "Pinch me."
+    },
+    {
+      "id": "15",
+      "ja": "今年一番のビッグニュースだ。",
+      "en": "It's the biggest news of the year."
+    },
+    {
+      "id": "16",
+      "ja": "びっくりして目玉が飛び出たよ。",
+      "en": "My heart's in my throat."
+    },
+    {
+      "id": "17",
+      "ja": "びっくりさせないでよ、もう。",
+      "en": "Don't scare me again."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title_no": "script-01 9-01",
+  "title": "うれしい",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "とってもうれしいです。",
+      "en": "I'm just so happy."
+    },
+    {
+      "id": "02",
+      "ja": "超うれしい。",
+      "en": "I'm more than happy."
+    },
+    {
+      "id": "03",
+      "ja": "感動した！",
+      "en": "I was so impressed!"
+    },
+    {
+      "id": "04",
+      "ja": "最高だったよ。",
+      "en": "I was blown away."
+    },
+    {
+      "id": "05",
+      "ja": "夢みたい！",
+      "en": "This is like a dream!"
+    },
+    {
+      "id": "06",
+      "ja": "きゃあ！",
+      "en": "Wow!"
+    },
+    {
+      "id": "07",
+      "ja": "イエーイ！",
+      "en": "Yay!"
+    },
+    {
+      "id": "08",
+      "ja": "やったあ！",
+      "en": "We did it!"
+    },
+    {
+      "id": "09",
+      "ja": "光栄です。",
+      "en": "I'm so honored."
+    },
+    {
+      "id": "10",
+      "ja": "胸が高鳴ります。",
+      "en": "My heart is pounding."
+    },
+    {
+      "id": "11",
+      "ja": "胸がいっぱいです。",
+      "en": "I'm overwhelmed."
+    },
+    {
+      "id": "12",
+      "ja": "じーんときました。",
+      "en": "I'm so moved."
+    },
+    {
+      "id": "13",
+      "ja": "まだ信じられません。",
+      "en": "I still can't believe it happened."
+    },
+    {
+      "id": "14",
+      "ja": "とても幸せです。",
+      "en": "I couldn't be happier."
+    },
+    {
+      "id": "15",
+      "ja": "涙が出るほどうれしい。",
+      "en": "I'm so happy I could cry."
+    }
+  ]
+}

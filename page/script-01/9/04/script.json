@@ -1,0 +1,71 @@
+{
+  "title_no": "script-01 9-04",
+  "title": "怖い",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "キャー！",
+      "en": "Ahh!"
+    },
+    {
+      "id": "02",
+      "ja": "怖い！",
+      "en": "Scary!"
+    },
+    {
+      "id": "03",
+      "ja": "なんておそろしい！",
+      "en": "How awful!"
+    },
+    {
+      "id": "04",
+      "ja": "我慢できない！",
+      "en": "I can't stand it!"
+    },
+    {
+      "id": "05",
+      "ja": "助けて！",
+      "en": "Help me!"
+    },
+    {
+      "id": "06",
+      "ja": "見るのもいや。",
+      "en": "I hate even seeing it."
+    },
+    {
+      "id": "07",
+      "ja": "聞きたくない。",
+      "en": "I don't even want to hear about it."
+    },
+    {
+      "id": "08",
+      "ja": "冷や汗が出るよ。",
+      "en": "I'm so scared I'm sweating."
+    },
+    {
+      "id": "09",
+      "ja": "考えるとお腹が痛くなる。",
+      "en": "Just thinking about it makes me sick."
+    },
+    {
+      "id": "10",
+      "ja": "怖くて寝られない。",
+      "en": "I'm too scared to sleep."
+    },
+    {
+      "id": "11",
+      "ja": "ひとりにしないで！",
+      "en": "Don't leave me alone!"
+    },
+    {
+      "id": "12",
+      "ja": "身の毛がよだつ出来事でした。",
+      "en": "It made my hair stand on end."
+    },
+    {
+      "id": "13",
+      "ja": "この世のものとは思えない。",
+      "en": "It's just too horrible."
+    }
+  ]
+}

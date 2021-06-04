@@ -1,0 +1,91 @@
+{
+  "title_no": "script-01 11-01",
+  "title": "支度",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "パスポートの申請をしなきゃ。",
+      "en": "I need to apply for a passport."
+    },
+    {
+      "id": "02",
+      "ja": "ビザっているんだっけ？",
+      "en": "Do we need a visa?"
+    },
+    {
+      "id": "03",
+      "ja": "保険に入っておこうか？",
+      "en": "Should we get travel insurance?"
+    },
+    {
+      "id": "04",
+      "ja": "スーツケースある？",
+      "en": "Do we have a suitcase?"
+    },
+    {
+      "id": "05",
+      "ja": "どこの飛行機で行こうか？",
+      "en": "Which airline shall we use?"
+    },
+    {
+      "id": "06",
+      "ja": "ビジネスで行く？エコノミーで行く？",
+      "en": "Shall we fly business or economy?"
+    },
+    {
+      "id": "07",
+      "ja": "マイルたまってる？",
+      "en": "Have we saved a lot of mileage?"
+    },
+    {
+      "id": "08",
+      "ja": "時差は何時間あるの？",
+      "en": "What is the time difference?"
+    },
+    {
+      "id": "09",
+      "ja": "あっちの気温は何度くらいかな？",
+      "en": "What is the average temperature there?"
+    },
+    {
+      "id": "10",
+      "ja": "物価は高いのかな？",
+      "en": "Are the prices high over there?"
+    },
+    {
+      "id": "11",
+      "ja": "着替えは何着必要かな？",
+      "en": "How many changes of clothes do I need?"
+    },
+    {
+      "id": "12",
+      "ja": "フォーマルウェアは必要？",
+      "en": "Do I need a formal suit?"
+    },
+    {
+      "id": "13",
+      "ja": "念のため、セーターを持っていこう。",
+      "en": "I'll take a sweater just in case."
+    },
+    {
+      "id": "14",
+      "ja": "常備薬を忘れずにね！",
+      "en": "Don't forget your medicine!"
+    },
+    {
+      "id": "15",
+      "ja": "現地で買えばいいね。",
+      "en": "I can buy it over there."
+    },
+    {
+      "id": "16",
+      "ja": "折り畳み傘を入れておこうか？",
+      "en": "Do we need a folding umbrella?"
+    },
+    {
+      "id": "17",
+      "ja": "ガイドブックは君が用意してくれる？",
+      "en": "Can you get the guidebook?"
+    }
+  ]
+}

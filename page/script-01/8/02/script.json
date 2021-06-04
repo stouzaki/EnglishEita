@@ -1,0 +1,71 @@
+{
+  "title_no": "script-01 8-02",
+  "title": "汚いもの",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "人前でげっぷしないで！",
+      "en": "Don't burp !"
+    },
+    {
+      "id": "02",
+      "ja": "だれかおならした？",
+      "en": "Did someone fart?"
+    },
+    {
+      "id": "03",
+      "ja": "ふけがすごいから、気を付けて。",
+      "en": "You need to do something about your dandruff."
+    },
+    {
+      "id": "04",
+      "ja": "ちょっと！鼻毛が出てるよ。",
+      "en": "Watch out for nasal hairs. They're showing."
+    },
+    {
+      "id": "05",
+      "ja": "鼻水が止まらない。",
+      "en": "My nose won't stop running."
+    },
+    {
+      "id": "06",
+      "ja": "下痢がおさまりません。",
+      "en": "I've had diarrhea for days."
+    },
+    {
+      "id": "07",
+      "ja": "ゆうべは飲み過ぎて吐いちゃった。",
+      "en": "I had too much to drink last night and threw up."
+    },
+    {
+      "id": "08",
+      "ja": "歯に海苔がついてるよ。",
+      "en": "You have \"nori\" in your teeth."
+    },
+    {
+      "id": "09",
+      "ja": "2日間、風呂に入ってないんだ。",
+      "en": "I haven't taken a bath for two days in a row."
+    },
+    {
+      "id": "10",
+      "ja": "犬のうんちをふんじゃったよ。",
+      "en": "Oops, I stepped in dog poo."
+    },
+    {
+      "id": "11",
+      "ja": "鳥の糞には気を付けて！",
+      "en": "Watch out for bird droppings !"
+    },
+    {
+      "id": "12",
+      "ja": "唾を道端に吐かないでよ。",
+      "en": "Don't spit on the road."
+    },
+    {
+      "id": "13",
+      "ja": "公衆トイレが汚い。",
+      "en": "That public toilet is filthy."
+    }
+  ]
+}

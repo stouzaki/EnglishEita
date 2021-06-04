@@ -1,0 +1,141 @@
+{
+  "title_no": "script-01 11-02",
+  "title": "ホテルの予約",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "ホテルはインターネットで予約しよう。",
+      "en": "Let's reserve a hotel on the Internet."
+    },
+    {
+      "id": "02",
+      "ja": "駅から近いホテルを探すつもり。",
+      "en": "I'll look for the hotel near the station."
+    },
+    {
+      "id": "03",
+      "ja": "７月２５日は空いていますか？",
+      "en": "Is July 25th still available?"
+    },
+    {
+      "id": "04",
+      "ja": "シングルは空いていますか？",
+      "en": "Can I have a single room?"
+    },
+    {
+      "id": "05",
+      "ja": "１泊いくらですか？",
+      "en": "How much is it for a night?"
+    },
+    {
+      "id": "06",
+      "ja": "一番安いホテルを探しています。",
+      "en": "I'm looking for the most reasonable hotel."
+    },
+    {
+      "id": "07",
+      "ja": "シャワーはありますか？",
+      "en": "Does a room have a shower?"
+    },
+    {
+      "id": "08",
+      "ja": "五つ星ホテルをお願いします。",
+      "en": "We are looking for a five-star hotel."
+    },
+    {
+      "id": "09",
+      "ja": "禁煙室でお願いします。",
+      "en": "We'd like a non-smoking room, please."
+    },
+    {
+      "id": "10",
+      "ja": "朝食付きでお願いします。",
+      "en": "With breakfast, please."
+    },
+    {
+      "id": "11",
+      "ja": "どのようなアメニティが含まれていますか？",
+      "en": "What kinds of amenities are included?"
+    },
+    {
+      "id": "12",
+      "ja": "エキストラベッドはありますか？",
+      "en": "Is it possible to put in an extra bed?"
+    },
+    {
+      "id": "13",
+      "ja": "クレジットカードは使えますか？",
+      "en": "Can I use a credit card?"
+    },
+    {
+      "id": "14",
+      "ja": "Wi-Fiは使えますか？",
+      "en": "Can I use Wi-Fi?"
+    },
+    {
+      "id": "15",
+      "ja": "空港息の送迎バスはありますか？",
+      "en": "Do you have a shuttle bus to the airport?"
+    },
+    {
+      "id": "16",
+      "ja": "延泊したいんですが。",
+      "en": "We'd like to extend our stay."
+    },
+    {
+      "id": "17",
+      "ja": "満室みたい。",
+      "en": "Looks like there's no vacancy."
+    },
+    {
+      "id": "18",
+      "ja": "子供料金はありますか？",
+      "en": "Do you have a special fee for kids?"
+    },
+    {
+      "id": "19",
+      "ja": "割引はありますか？",
+      "en": "Do you have a discount?"
+    },
+    {
+      "id": "20",
+      "ja": "予約の変更をお願いします。",
+      "en": "I'd like to change my resavation."
+    },
+    {
+      "id": "21",
+      "ja": "キャンセルはいつまで可能ですか？",
+      "en": "Until when can I cancel?"
+    },
+    {
+      "id": "22",
+      "ja": "キャンセル料はいくらですか？",
+      "en": "How much is the cancellation fee?"
+    },
+    {
+      "id": "23",
+      "ja": "申し訳ありませんが、予約されていないようです。",
+      "en": "I'm afraid your resavation has not been made."
+    },
+    {
+      "id": "24",
+      "ja": "予約確認番号をお持ちですか？",
+      "en": "Do you have a confirmation number?"
+    },
+    {
+      "id": "25",
+      "ja": "はい、ここにあります。",
+      "en": "Yes, here it is."
+    },
+    {
+      "id": "26",
+      "ja": "たしか、禁煙の部屋をお願いしたはずですが。",
+      "en": "I'm sure we reserved a non-smoking room."
+    },
+    {
+      "id": "27",
+      "ja": "ペット可と、ホームページに書いてませんでしたか？",
+      "en": "Your website says pets are allowed, doesn't it?"
+    }
+  ]
+}
