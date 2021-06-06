@@ -1,0 +1,86 @@
+{
+  "title_no": "script-01 13-01",
+  "title": "タクシー",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "空港までお願いします。",
+      "en": "Please take us to the airport."
+    },
+    {
+      "id": "02",
+      "ja": "私たちの飛行機はターミナル１から出発します。",
+      "en": "We are flying from Terminal 1."
+    },
+    {
+      "id": "03",
+      "ja": "上海ヒルトンホテルまで行きたいんですが。",
+      "en": "Could you take us to the Shanghai Hilton Hotel?"
+    },
+    {
+      "id": "04",
+      "ja": "ホテルの場所は分かりますか？",
+      "en": "Do you know where that hotel is?"
+    },
+    {
+      "id": "05",
+      "ja": "地図を持っています。ホテルの場所はここです。",
+      "en": "We have a map. The hotel is right here."
+    },
+    {
+      "id": "06",
+      "ja": "荷物があるのでトランクを開けてください。",
+      "en": "We have a lot of luggage. Would you open the trunk?"
+    },
+    {
+      "id": "07",
+      "ja": "ホテルまでどれくらいですか？",
+      "en": "How far is it to the hotel."
+    },
+    {
+      "id": "08",
+      "ja": "ホテルまでの料金はどのくらいかかりますか？",
+      "en": "How much is it to the hotel?"
+    },
+    {
+      "id": "09",
+      "ja": "ホテルは、たしか公園の隣です。",
+      "en": "I think the hotel is right next to the park."
+    },
+    {
+      "id": "10",
+      "ja": "次の交差点を右に曲がってください。",
+      "en": "Turn to the right at the next intersection."
+    },
+    {
+      "id": "11",
+      "ja": "すみません、メーターが動いてませんよ。",
+      "en": "Excuse me, the meter isn't running."
+    },
+    {
+      "id": "12",
+      "ja": "料金が高すぎます。",
+      "en": "I think the fare is too expensive."
+    },
+    {
+      "id": "13",
+      "ja": "エアコンを止めてください。",
+      "en": "Can you turn off the air-conditioning?"
+    },
+    {
+      "id": "14",
+      "ja": "帰りもここに迎えに来てもらえますか？",
+      "en": "Can you pick us up here when we finish our dinner?"
+    },
+    {
+      "id": "15",
+      "ja": "行きたいのはこっちじゃありません。",
+      "en": "I think... you're going in the wrong direction."
+    },
+    {
+      "id": "16",
+      "ja": "おつりは結構です。",
+      "en": "Keep the change."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "title_no": "script-01 12-03",
+  "title": "ホテル",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "チェックインお願いします。",
+      "en": "We'd like to check in, please."
+    },
+    {
+      "id": "02",
+      "ja": "日本語が話せるスタッフはいますか？",
+      "en": "Does anybody speak Japanese?"
+    },
+    {
+      "id": "03",
+      "ja": "貴重品を預けることはできますか？",
+      "en": "Can you keep our valubales?"
+    },
+    {
+      "id": "04",
+      "ja": "朝食はどこで食べられますか？",
+      "en": "Where can we have breakfast?"
+    },
+    {
+      "id": "05",
+      "ja": "朝食は何時ですか？",
+      "en": "When is breakfast served?"
+    },
+    {
+      "id": "06",
+      "ja": "ルームサービスをお願いします。",
+      "en": "Can we order room service?"
+    },
+    {
+      "id": "07",
+      "ja": "Wi-FiのIDを教えてください。",
+      "en": "Could you give us the log-in ID and password for the Wi-Fi?"
+    },
+    {
+      "id": "08",
+      "ja": "ルームキーを部屋に忘れてしまいました。",
+      "en": "I left the key in my room."
+    },
+    {
+      "id": "09",
+      "ja": "鍵がかかっちゃって開かない！",
+      "en": "I got locked out!"
+    },
+    {
+      "id": "10",
+      "ja": "お湯が熱くならないのですが。",
+      "en": "The water doesn't get hot."
+    },
+    {
+      "id": "11",
+      "ja": "エアコンが壊れているみたい。",
+      "en": "The air conditioning is not working."
+    },
+    {
+      "id": "12",
+      "ja": "ちょっと見に来てもらえますか？",
+      "en": "Could you come up and check it?"
+    },
+    {
+      "id": "13",
+      "ja": "隣の部屋がうるさいんですが。",
+      "en": "The people next door are too noisy."
+    },
+    {
+      "id": "14",
+      "ja": "他の部屋と取り替えてもらえますか？",
+      "en": "Would you please move us to another room?"
+    },
+    {
+      "id": "15",
+      "ja": "シーツとタオルを取り替えてください。",
+      "en": "Please change the sheets and towels."
+    },
+    {
+      "id": "16",
+      "ja": "眺めがいい部屋！",
+      "en": "What a fantastic view we have!"
+    },
+    {
+      "id": "17",
+      "ja": "はい、これチップです。",
+      "en": "Here you go."
+    },
+    {
+      "id": "18",
+      "ja": "もう１日延泊したいのですが。",
+      "en": "We'd like to extend our stay for one more day."
+    },
+    {
+      "id": "19",
+      "ja": "エキストラベッドを入れたいのですが。",
+      "en": "Can we have an extra bed in our room?"
+    },
+    {
+      "id": "20",
+      "ja": "駅まで歩けますか？",
+      "en": "Can we walk to the station?"
+    },
+    {
+      "id": "21",
+      "ja": "タクシーを呼んでもらえますか？",
+      "en": "Would you call a taxi?"
+    }
+  ]
+}

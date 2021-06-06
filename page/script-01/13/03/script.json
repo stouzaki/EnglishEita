@@ -1,0 +1,106 @@
+{
+  "title_no": "script-01 12-03",
+  "title": "駅・電車",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "北京駅に行くにはどうすればいいですか？",
+      "en": "Could you tell me how to get to Beijing Station?"
+    },
+    {
+      "id": "02",
+      "ja": "ニース行きの次の電車は何時ですか？",
+      "en": "What time is the next train to the Nice?"
+    },
+    {
+      "id": "03",
+      "ja": "どこで乗り換えればいいですか？",
+      "en": "Where should we change trains?"
+    },
+    {
+      "id": "04",
+      "ja": "その駅に急行は止まりますか？",
+      "en": "Does the express train stop at that station?"
+    },
+    {
+      "id": "05",
+      "ja": "時刻表を確認してみよう。",
+      "en": "Let's check the timetable."
+    },
+    {
+      "id": "06",
+      "ja": "切符売り場はどこですか？",
+      "en": "Where do they sell tickets?"
+    },
+    {
+      "id": "07",
+      "ja": "一日乗車券はありますか？",
+      "en": "Is there a single-day ticket?"
+    },
+    {
+      "id": "08",
+      "ja": "切符の買い方を教えてください。",
+      "en": "Please tell me how to buy tickets."
+    },
+    {
+      "id": "09",
+      "ja": "特急乗り場は何番ホームですか？",
+      "en": "Where's the platform for the limited express trains?"
+    },
+    {
+      "id": "10",
+      "ja": "特急料金はいくらですか？",
+      "en": "How much do we pay for the limited express?"
+    },
+    {
+      "id": "11",
+      "ja": "特急は予約が必要ですか？",
+      "en": "Do we need a reservation for the limited express?"
+    },
+    {
+      "id": "12",
+      "ja": "朝一番の電車は何時ですか？",
+      "en": "What time does the first train depart?"
+    },
+    {
+      "id": "13",
+      "ja": "食堂車はありますか？",
+      "en": "Is there a dining car on the train?"
+    },
+    {
+      "id": "14",
+      "ja": "乗る電車を間違えた！",
+      "en": "I think we took the wrong train!"
+    },
+    {
+      "id": "15",
+      "ja": "乗り過ごしちゃった。",
+      "en": "We missed the train station."
+    },
+    {
+      "id": "16",
+      "ja": "隣の席は空いてますか？",
+      "en": "Is anybody sitting here?"
+    },
+    {
+      "id": "17",
+      "ja": "ホームに人が落ちたみたい！",
+      "en": "It seems someone fell off the platform!"
+    },
+    {
+      "id": "18",
+      "ja": "緊急ボタンを押して！",
+      "en": "Press the emergency button!"
+    },
+    {
+      "id": "19",
+      "ja": "すぐ逃げなきゃ。",
+      "en": "Let's get out of here."
+    },
+    {
+      "id": "20",
+      "ja": "人身事故があったみたいだ。",
+      "en": "It seems that someone was involved in an accident."
+    }
+  ]
+}

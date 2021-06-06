@@ -1,0 +1,46 @@
+{
+  "title_no": "script-01 12-02",
+  "title": "バス",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "ここには行きますか？",
+      "en": "Do you stop here?"
+    },
+    {
+      "id": "02",
+      "ja": "お札は使えますか？",
+      "en": "Can we use bills?"
+    },
+    {
+      "id": "03",
+      "ja": "ルーブル美術館には停まりますか？",
+      "en": "Does this bus stop at the Louvre Museum?"
+    },
+    {
+      "id": "04",
+      "ja": "あっ、この席空いてますよ。",
+      "en": "Nobody is sitting here. Have a seat."
+    },
+    {
+      "id": "05",
+      "ja": "ここで降ります。",
+      "en": "We are getting off here!"
+    },
+    {
+      "id": "06",
+      "ja": "小銭がないんです。",
+      "en": "We don't have any small change."
+    },
+    {
+      "id": "07",
+      "ja": "あれ、何で停まったんだ？",
+      "en": "Why has the bus stopped?"
+    },
+    {
+      "id": "08",
+      "ja": "どうやらパンクしたようだ。",
+      "en": "Looks like they've got a flat tire."
+    }
+  ]
+}
