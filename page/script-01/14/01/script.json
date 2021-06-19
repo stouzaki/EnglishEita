@@ -1,0 +1,101 @@
+{
+  "title_no": "script-01 14-01",
+  "title": "観光する",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "行きたいところある？",
+      "en": "Is there anywhere in particular you want to visit?"
+    },
+    {
+      "id": "02",
+      "ja": "市場に行ってみたいな。",
+      "en": "I want to visit the open markets."
+    },
+    {
+      "id": "03",
+      "ja": "おすすめの観光スポットは？",
+      "en": "What are your recommendations for tourists?"
+    },
+    {
+      "id": "04",
+      "ja": "観光マップはどこへ行けば手に入る？",
+      "en": "Where can we get a map?"
+    },
+    {
+      "id": "05",
+      "ja": "お得な観光パックツアーのチケットはありますか？",
+      "en": "Do you have discount package tickets?"
+    },
+    {
+      "id": "06",
+      "ja": "オプショナルツアーを申し込みたいのですが。",
+      "en": "We'd like to sign up for an optional tour."
+    },
+    {
+      "id": "07",
+      "ja": "世界遺産に行ってみたい。",
+      "en": "We want to visit some World Heritage Sites."
+    },
+    {
+      "id": "08",
+      "ja": "レンタカーってどこで借りられる？",
+      "en": "Whre can we rent a car?"
+    },
+    {
+      "id": "09",
+      "ja": "自転車を１日借りるといくらになりますか？",
+      "en": "How much does it cost to rent a bike for a day?"
+    },
+    {
+      "id": "10",
+      "ja": "半日なら安くなりますか？",
+      "en": "Do we get a discount if we rent for half a day?"
+    },
+    {
+      "id": "11",
+      "ja": "荷物をどこかに預けられないかな？",
+      "en": "Is there any place where we can store our luggage?"
+    },
+    {
+      "id": "12",
+      "ja": "どこか眺めの良いところを知っていますか？",
+      "en": "Do you know a place with a good view."
+    },
+    {
+      "id": "13",
+      "ja": "街並みがきれい！",
+      "en": "This town is so pretty!"
+    },
+    {
+      "id": "14",
+      "ja": "写真を撮ってもらえますか？",
+      "en": "Would you take our photo?"
+    },
+    {
+      "id": "15",
+      "ja": "はい、チーズ！",
+      "en": "Say \"cheese\"!"
+    },
+    {
+      "id": "16",
+      "ja": "入場料はどこで払うの？",
+      "en": "Whre do we pay the admission fee?"
+    },
+    {
+      "id": "17",
+      "ja": "この美術館の閉館は何時ですか？",
+      "en": "When does this museum close?"
+    },
+    {
+      "id": "18",
+      "ja": "足が痛い！",
+      "en": "My feet are sore!"
+    },
+    {
+      "id": "19",
+      "ja": "かかとに靴ずれができちゃった。",
+      "en": "I got a blister on my feel."
+    }
+  ]
+}

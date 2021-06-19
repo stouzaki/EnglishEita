@@ -1,0 +1,61 @@
+{
+  "title_no": "script-01 14-02",
+  "title": "両替",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "両替お願いします。",
+      "en": "I'd like to exchange money."
+    },
+    {
+      "id": "02",
+      "ja": "銀行はどこにありますか？",
+      "en": "Where's the nearest bank?"
+    },
+    {
+      "id": "03",
+      "ja": "今日のレートはどうかな？",
+      "en": "What's today's rate?"
+    },
+    {
+      "id": "04",
+      "ja": "今、１ドル１００円です。",
+      "en": "It's 100 yen to the dollar."
+    },
+    {
+      "id": "05",
+      "ja": "レートのいい両替所はどこですか？",
+      "en": "Where can I get a good exchange rate?"
+    },
+    {
+      "id": "06",
+      "ja": "ホテルで両替はできますか？",
+      "en": "Is it possible to exchange money at the hotel?"
+    },
+    {
+      "id": "07",
+      "ja": "円をドルに両替してください。",
+      "en": "I'd like to change yen into dollars."
+    },
+    {
+      "id": "08",
+      "ja": "100ドル札を細かくできますか？",
+      "en": "Could you change this 100 dollar bill into smaller bills?"
+    },
+    {
+      "id": "09",
+      "ja": "全部10ドル札にしてください。",
+      "en": "I'd like to change all these bills into 10 dollar bills."
+    },
+    {
+      "id": "10",
+      "ja": "小銭も混ぜてください。",
+      "en": "I'd like to have coins, too."
+    },
+    {
+      "id": "11",
+      "ja": "ドルで買ったほうがいいみたい。",
+      "en": "It seems better to pay with dollars."
+    }
+  ]
+}

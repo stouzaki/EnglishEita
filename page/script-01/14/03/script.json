@@ -1,0 +1,121 @@
+{
+  "title_no": "script-01 14-03",
+  "title": "トラブル",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "どろぼう！",
+      "en": "Thief!"
+    },
+    {
+      "id": "02",
+      "ja": "助けて！",
+      "en": "Help me!"
+    },
+    {
+      "id": "03",
+      "ja": "私の荷物に触らないで！",
+      "en": "Don't touch my luggage!"
+    },
+    {
+      "id": "04",
+      "ja": "バッグをひったくられた！",
+      "en": "Someone took my bag!"
+    },
+    {
+      "id": "05",
+      "ja": "お財布をすられたみたい。",
+      "en": "I think someone stole my wallet."
+    },
+    {
+      "id": "06",
+      "ja": "置き引きに気を付けて。",
+      "en": "Watch out for luggage thieves."
+    },
+    {
+      "id": "07",
+      "ja": "警察を呼んでください！",
+      "en": "Please call the police!"
+    },
+    {
+      "id": "08",
+      "ja": "犯人はこんな感じでした。",
+      "en": "The thief looks like this."
+    },
+    {
+      "id": "09",
+      "ja": "日本の家族に連絡したいのですが。",
+      "en": "I'd like to call my family in Japan."
+    },
+    {
+      "id": "10",
+      "ja": "パスポートをなくしちゃった。",
+      "en": "I lost my passport."
+    },
+    {
+      "id": "11",
+      "ja": "日本大使館はどこですか？",
+      "en": "Where's the Japanese embassy?"
+    },
+    {
+      "id": "12",
+      "ja": "通訳の方をお願いできますか？",
+      "en": "Could you get me an inter preter?"
+    },
+    {
+      "id": "13",
+      "ja": "飛行機の時間に間に合わない！",
+      "en": "We won't be in time for our flight!"
+    },
+    {
+      "id": "14",
+      "ja": "子供が迷子になりました。",
+      "en": "My child is lost."
+    },
+    {
+      "id": "15",
+      "ja": "子供は５歳の女の子で、こんな服装をしています。",
+      "en": "The child is a five-year-old girl and she's a dressed like this."
+    },
+    {
+      "id": "16",
+      "ja": "これは不良品です。",
+      "en": "This is a defective product."
+    },
+    {
+      "id": "17",
+      "ja": "だまされた！",
+      "en": "He cheated us!"
+    },
+    {
+      "id": "18",
+      "ja": "お金を返してください。",
+      "en": "We want to have our money returned."
+    },
+    {
+      "id": "19",
+      "ja": "急に具合が悪くなりました。",
+      "en": "I suddenly started feeling sick."
+    },
+    {
+      "id": "20",
+      "ja": "病院へ連れて行ってください。",
+      "en": "Please take me to the hospital."
+    },
+    {
+      "id": "21",
+      "ja": "救急車を呼んでください。",
+      "en": "Colud you call an ambulance?"
+    },
+    {
+      "id": "22",
+      "ja": "日本の母親と話したいです。",
+      "en": "I need to talk to my mother in Japan."
+    },
+    {
+      "id": "23",
+      "ja": "まだ日本は夜明け前です。",
+      "en": "I think it's still before dawn in Japan."
+    }
+  ]
+}

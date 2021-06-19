@@ -1,0 +1,96 @@
+{
+  "title_no": "script-01 15-01",
+  "title": "道を尋ねる",
+  "scripts": [
+    {
+      "id": "01",
+      "ja": "駅にはどうやって行けばよいですか？",
+      "en": "Excuse me, how do I get to the station?"
+    },
+    {
+      "id": "02",
+      "ja": "空港へ連れて行ってください。",
+      "en": "Could you take us to the airport?"
+    },
+    {
+      "id": "03",
+      "ja": "すみません、交番はどこですか？",
+      "en": "Excuse me, where's the police station?"
+    },
+    {
+      "id": "04",
+      "ja": "道に迷ってしまいました。",
+      "en": "I've lost my way."
+    },
+    {
+      "id": "05",
+      "ja": "ここはどこですか？",
+      "en": "Could you tell us where we are now?"
+    },
+    {
+      "id": "06",
+      "ja": "まいったなぁ。。。",
+      "en": "I don't know what to do..."
+    },
+    {
+      "id": "07",
+      "ja": "その場所へは歩いて行けますか？",
+      "en": "Can we walk to that destination?"
+    },
+    {
+      "id": "08",
+      "ja": "右に曲がりますか？左ですか？",
+      "en": "Do we turn right or left?"
+    },
+    {
+      "id": "09",
+      "ja": "もう一度最初からお願いします。",
+      "en": "Could you repeat that again?"
+    },
+    {
+      "id": "10",
+      "ja": "目印は何ですか？",
+      "en": "Is there any landmark?"
+    },
+    {
+      "id": "11",
+      "ja": "この通りの名前を教えてください。",
+      "en": "Could you tell me the name of this street?"
+    },
+    {
+      "id": "12",
+      "ja": "私は方向音痴です。",
+      "en": "I have a poor sense of direction."
+    },
+    {
+      "id": "13",
+      "ja": "僕たちの目的地はもっと南だね。",
+      "en": "Our destionation is further south, isn't it?"
+    },
+    {
+      "id": "14",
+      "ja": "地図は持ってますか？",
+      "en": "Excuse me, do you have a map?"
+    },
+    {
+      "id": "15",
+      "ja": "ちょっと地図見せて。",
+      "en": "Can I see your map for a second?"
+    },
+    {
+      "id": "16",
+      "ja": "地図の見方がわかりません。",
+      "en": "I don't know how to read the map."
+    },
+    {
+      "id": "17",
+      "ja": "グーグルで検索しよう。",
+      "en": "Let's google it."
+    },
+    {
+      "id": "18",
+      "ja": "このへんが目的地のはずなんだけど。",
+      "en": "I think the place is somewhere around here."
+    }
+  ]
+}
