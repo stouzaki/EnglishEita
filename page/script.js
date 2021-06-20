@@ -16,6 +16,10 @@ function onDOMContentLoaded() {
 
 /** 初期表示（描画完了後（TemplateタグのDom描画も完了した後）） */
 function onLoad(e) {
+  // ヘッダの高さの分だけコンテンツを下げる
+  let height = $("header").height();
+  $("#main").css("padding-top", height + 10);
+
   // スクリプトクリック
   setEvent(".script", "click", onClickScript);
   // 再生ボタンイベント
