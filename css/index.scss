@@ -16,10 +16,10 @@ header {
 
 main {
   padding-top: 0.4rem;
+  counter-reset: cat-no 0;
 }
 
 .category {
-  counter-reset: cat-no 0;
   counter-reset: sub-no 0;
   margin-bottom: 3rem;
   padding: 0.2rem 0.5rem;
