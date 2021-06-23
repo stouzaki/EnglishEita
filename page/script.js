@@ -238,8 +238,10 @@ function setArticleText(name) {
 
       const audio = clone.querySelector("audio");
       audio.src = getSourcePath(`${id}.mp3`);
-      audio.defaultPlaybackRate = localStorage.playSpeed;
-      audio.playbackRate = localStorage.playSpeed;
+      if (localStorage.playSpeed) {
+        audio.defaultPlaybackRate = localStorage.playSpeed;
+        audio.playbackRate = localStorage.playSpeed;
+      }
       audio.addEventListener("ended", onPlayEnded);
       audios[id] = audio;
 
